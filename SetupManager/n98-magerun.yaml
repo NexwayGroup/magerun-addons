@@ -1,0 +1,6 @@
+autoloaders:
+  Nexway: %module%/src
+
+commands:
+  customCommands:
+    - Nexway\Magento\Command\Config\LoadCommand
