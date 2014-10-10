@@ -1,7 +1,0 @@
-autoloaders:
-  Nexway: %module%/src
-
-commands:
-  customCommands:
-    - Nexway\Magento\Command\Config\LoadCommand
-    - Nexway\Magento\Command\Config\SaveCommand
