@@ -38,6 +38,10 @@ class Action extends \Varien_Object
         $action = str_replace('_', '', $action);
         // unlike Mage::helper() this one returns FALSE when model is not found
 
+        // change whole config to use new action name and remove this ugly hack
+        // we can't have default namespace, but in config we have such entry
+        $scope = ($scope == 'default') ? $scope . 'scope' : $scope;
+
         $className = '\\Nexway\\Magento\\Util\\Processor\\Action\\' . ucfirst($scope) . '\\' . ucfirst($action);
         $base = new $className();
         if (FALSE === $base) {
@@ -45,6 +49,7 @@ class Action extends \Varien_Object
         }
         $parametersObject = new \Varien_Object();
         $parametersObject->setData($parameters);
+
         return $base->
             setAction($action)->
             setScope($scope)->

@@ -2,6 +2,7 @@
 
 namespace Nexway\Magento\Util\Helper;
 
+use Nexway\Magento\Util\Processor\Action;
 
 /**
  * @category    Nexway
@@ -15,7 +16,7 @@ class Processor
     /**
      * Current paths
      *
-     * @var Varien_Object
+     * @var \Varien_Object
      */
     protected $path;
 
@@ -65,7 +66,7 @@ class Processor
     }
 
     /**
-     * @param array|\Nexway_SetupManager_Model_Processor_Action $entry
+     * @param array|Action $entry
      * @return mixed
      */
     public function process($entry)
@@ -75,8 +76,8 @@ class Processor
 
         $entry = $parser->parseExtendedId($entry);
 
-        $handler = new \Nexway\Magento\Util\Processor\Action();
-        if (!($entry instanceof \Nexway\Magento\Util\Processor\Action)) {
+        $handler = new Action();
+        if (!($entry instanceof Action)) {
             $action = $handler->assign($entry);
         } else {
             $action = $entry;

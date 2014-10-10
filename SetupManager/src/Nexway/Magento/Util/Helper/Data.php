@@ -43,7 +43,7 @@ class Data
     }
 
     /**
-     * @return Nexway_SetupManager_Model_Image
+     * @return Image
      */
     public function getImageModel()
     {
@@ -51,7 +51,7 @@ class Data
     }
 
     /**
-     * @return Mage_Core_Model_Store
+     * @return \Mage_Core_Model_Store
      */
     public function getStoreModel()
     {
@@ -59,7 +59,7 @@ class Data
     }
 
     /**
-     * @return Mage_Catalog_Model_Category
+     * @return \Mage_Catalog_Model_Category
      */
     public function getCategoryModel()
     {
@@ -68,7 +68,7 @@ class Data
     }
 
     /**
-     * @return Nexway_Catalog_Helper_Product
+     * @return \Nexway_Catalog_Helper_Product
      */
     public function getNexwayProductHelper()
     {
@@ -77,7 +77,7 @@ class Data
     }
 
     /**
-     * @return Mage_Catalog_Helper_Product
+     * @return \Mage_Catalog_Helper_Product
      */
     public function getProductHelper()
     {
@@ -85,7 +85,7 @@ class Data
     }
 
     /**
-     * @return Mage_Core_Model_Website
+     * @return \Mage_Core_Model_Website
      */
     public function getWebsiteModel()
     {
@@ -93,7 +93,7 @@ class Data
     }
 
     /**
-     * @return Mage_Core_Model_Website
+     * @return \Mage_Core_Model_Website
      */
     public function getFeaturedBlockModel()
     {
@@ -111,7 +111,7 @@ class Data
     }
 
     /**
-     * @return false|Mage_Core_Model_Abstract
+     * @return false|\Mage_Core_Model_Abstract
      */
     public function getAttributesModel()
     {
@@ -119,7 +119,7 @@ class Data
     }
 
     /**
-     * @return false|Mage_Checkout_Model_Agreement
+     * @return false|\Mage_Checkout_Model_Agreement
      */
     public function getAgreementModel()
     {
@@ -127,7 +127,7 @@ class Data
     }
 
     /**
-     * @return false|Mage_Cms_Model_Page
+     * @return false|\Mage_Cms_Model_Page
      */
     public function getCmsModel()
     {
@@ -135,7 +135,7 @@ class Data
     }
 
     /**
-     * @return false|Mage_Customer_Model_Group
+     * @return false|\Mage_Customer_Model_Group
      */
     public function getCustomerGroupModel()
     {

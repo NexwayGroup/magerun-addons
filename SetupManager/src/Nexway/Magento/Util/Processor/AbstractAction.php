@@ -45,7 +45,7 @@ abstract class AbstractAction extends \Varien_Object
     {
         $model = $this->getParameters()->getData(self::F_MODEL);
         $data = $this->getParameters()->getData(self::F_DATA);
-        $target = Mage::getModel($model);
+        $target = \Mage::getModel($model);
 
         if (!is_object($target)) {
             throw new \Exception('Invalid model: ' . $model);

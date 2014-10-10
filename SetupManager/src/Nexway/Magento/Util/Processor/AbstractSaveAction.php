@@ -225,10 +225,10 @@ abstract class AbstractSaveAction extends AbstractAction
     /**
      * crate error message and set it in variable
      *
-     * @param Exception $error
+     * @param \Exception $error
      * @param integer $key
      */
-    protected function _prepareErrorMessage(Exception $error, $key)
+    protected function _prepareErrorMessage(\Exception $error, $key)
     {
         $this->_errors .= "[$key] message: {$error->getMessage()}\n";
     }

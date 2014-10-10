@@ -85,7 +85,7 @@ class LoadCommand extends AbstractMagentoCommand
     {
         $this
             ->setName('nexway:config:load')
-            ->setDescription('Test command registered in a module')
+            ->setDescription('Loads config from file to magento instance.')
             ->addArgument('path', InputArgument::REQUIRED, 'path to configuration file/directory')
             ->addOption(
                 'ext-ids',
@@ -379,13 +379,13 @@ class LoadCommand extends AbstractMagentoCommand
     {
         if ($this->_errors) {
             $this->_output->writeln(
-                "<error>There was some errors on setting configuration: {$this->_errors}</error>"
+                "<fg=red>There was some errors on setting configuration: \n{$this->_errors}</fg=red>"
             );
         }
 
         if ($this->_warnings) {
             $this->_output->writeln(
-                "<comment>There was some warnings on setting configuration: {$this->_warnings}</comment>"
+                "<comment>There was some warnings on setting configuration: \n{$this->_warnings}</comment>"
             );
         }
 
@@ -437,10 +437,10 @@ class LoadCommand extends AbstractMagentoCommand
     /**
      * crate error message and set it in variable
      *
-     * @param Exception $error
+     * @param \Exception $error
      * @param integer $key
      */
-    protected function _prepareErrorMessage(Exception $error, $key)
+    protected function _prepareErrorMessage(\Exception $error, $key)
     {
         $this->_errors .= "[$key] message: {$error->getMessage()}\n";
     }
