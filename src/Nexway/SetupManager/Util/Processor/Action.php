@@ -42,7 +42,7 @@ class Action extends \Varien_Object
         // we can't have default namespace, but in config we have such entry
         $scope = ($scope == 'default') ? $scope . 'scope' : $scope;
 
-        $className = '\\Nexway\\Magento\\Util\\Processor\\Action\\' . ucfirst($scope) . '\\' . ucfirst($action);
+        $className = '\\Nexway\\SetupManager\\Util\\Processor\\Action\\' . ucfirst($scope) . '\\' . ucfirst($action);
         $base = new $className();
         if (FALSE === $base) {
             throw new \Exception(sprintf('Invalid action - %s/%s', $scope, $action));
