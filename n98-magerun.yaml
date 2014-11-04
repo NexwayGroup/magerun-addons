@@ -1,0 +1,7 @@
+autoloaders:
+  Nexway: %module%/src
+
+commands:
+  customCommands:
+    - Nexway\SetupManager\Command\Config\LoadCommand
+    - Nexway\SetupManager\Command\Config\SaveCommand
