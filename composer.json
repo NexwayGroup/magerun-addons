@@ -1,0 +1,19 @@
+{
+    "name": "nexway/magerun-addons",
+    "type": "library",
+    "description": "Magerun addons: SetupManeger",
+    "homepage": "http://gediminasm.org/",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "n98/magerun":"dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Gedmo\\": "lib/" }
+    },
+    "extra": {
+        "branch-alias": {
+            "master": "0.1.x"
+        }
+    }
+}
