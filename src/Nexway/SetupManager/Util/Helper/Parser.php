@@ -79,7 +79,8 @@ class Parser
      *      by more than one field aka multicolumn unique key loader.
      */
     protected $_compundExtIdAllowed = [
-        'cms' => [ ['identifier', 'store_id'] ],
+        'cms'   => [ ['identifier', 'store_id'] ],
+        'group' => [ ['name', 'website_id'] ],
     ];
 
     /**
@@ -511,6 +512,11 @@ class Parser
      */
     protected function _getGroupInstance($field, $value)
     {
+        if (is_array($field)) {
+            $model = $this->_getHelper()->getStoreGroupModel();
+            return $this->_getObjectInstanceFromCollection($model, $field, $value);
+        }
+        
         switch ($field) {
             case 'id':
                 return $this->_getHelper()->getWebsiteModel()->load($value);
