@@ -49,6 +49,14 @@ class Data
     {
         return new Image;
     }
+    
+    /**
+     * @return Mage_Core_Model_Store_Group
+     */
+    public function getStoreGroupModel()
+    {
+        return \Mage::getModel('core/store_group');
+    }
 
     /**
      * @return \Mage_Core_Model_Store
