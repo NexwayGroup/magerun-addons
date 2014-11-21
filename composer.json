@@ -1,19 +1,12 @@
 {
     "name": "nexway/magerun-addons",
-    "type": "library",
+    "type": "magento-module",
     "description": "Magerun addons: SetupManeger",
-    "homepage": "http://gediminasm.org/",
+    "homepage": "http://nexway.com",
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "n98/magerun":"dev-master"
-    },
-    "autoload": {
-        "psr-0": { "Gedmo\\": "lib/" }
-    },
-    "extra": {
-        "branch-alias": {
-            "master": "0.1.x"
-        }
+        "n98/magerun": "dev-master",
+        "magento-hackathon/magento-composer-installer": "*"
     }
 }
