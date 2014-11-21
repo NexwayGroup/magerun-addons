@@ -1,4 +1,4 @@
-src/  lib/n98-magerun/modules/nexway-magerun-addons/
+src/  lib/n98-magerun/modules/nexway-magerun-addons/src
 composer.json  lib/n98-magerun/modules/nexway-magerun-addons/composer.json
 README.md  lib/n98-magerun/modules/nexway-magerun-addons/README.md
 n98-magerun.yaml  lib/n98-magerun/modules/nexway-magerun-addons/n98-magerun.yaml
