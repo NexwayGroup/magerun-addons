@@ -35,7 +35,7 @@ class Utils
     /**
      * @const string Config actions
      */
-    const CREATE_DEFAULT_CONFIG_ACTION  = 'default/createconfig';
+    const CREATE_DEFAULT_CONFIG_ACTION  = 'defaultscope/createconfig';
     const CREATE_WEBSITE_CONFIG_ACTION  = 'website/createconfig';
     const CREATE_STORE_CONFIG_ACTION    = 'store/createconfig';
 
