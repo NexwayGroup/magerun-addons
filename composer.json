@@ -18,6 +18,9 @@
         "magento-root-dir": "root"
     },
     "autoload": {
-        "psr-4": {"Nexway\\": "src/Nexway"}
+        "psr-4": {
+            "Nexway\\": "src/Nexway",
+            "Tests\\": "tests/"
+        }
     }
 }

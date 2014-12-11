@@ -8,6 +8,7 @@ namespace Nexway\SetupManager\Util\Helper;
  */
 class Utils
 {
+    use VatUtilsTrait;
     /*
      * allows defining more readable path=>val config for stores
      * check tests for examples
