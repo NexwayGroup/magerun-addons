@@ -8,18 +8,6 @@ namespace Nexway\SetupManager\Util\Helper;
  */
 class Utils
 {
-    public static function getInstance()
-    {
-        static $instance = null;
-        if (null === $instance) {
-            $instance = new Utils();
-        }
-
-        return $instance;
-    }
-
-    private function __construct() {}
-
     /*
      * allows defining more readable path=>val config for stores
      * check tests for examples
