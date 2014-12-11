@@ -9,7 +9,7 @@ use Nexway\SetupManager\Util\Helper\Utils;
 class Nexway_SetupManager_Test_Helper_UtilsSqueezeTest extends
     PHPUnit_Framework_TestCase
 {
-    /** @var  Nexway_SetupManager_Helper_Utils */
+    /** @var  Utils */
     protected $utils;
 
     public function setUp()

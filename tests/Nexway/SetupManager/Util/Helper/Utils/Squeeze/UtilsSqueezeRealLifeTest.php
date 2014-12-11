@@ -35,7 +35,6 @@ class Nexway_SetupManager_Test_Helper_UtilsSqueezeRealLifeTest extends
                 // sort by key if scope/blabla is equal
                 return strcmp($a['parameters']['key'], $b['parameters']['key']);
             }
-
             return strcmp($a[0], $b[0]); // sort by scope/blabla
         };
         usort($original, $cmp_function);
