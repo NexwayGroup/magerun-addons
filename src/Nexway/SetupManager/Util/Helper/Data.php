@@ -113,6 +113,11 @@ class Data
         return \Mage::getModel('tax/class');
     }
 
+    public function getTaxRuleModel()
+    {
+        return \Mage::getModel('tax/calculation_rule');
+    }
+
     public function getTaxRateModel()
     {
         return \Mage::getModel('tax/calculation_rate');

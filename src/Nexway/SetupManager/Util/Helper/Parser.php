@@ -68,6 +68,7 @@ class Parser
         'featured_block'  => ['id', 'block_id'],
         'tax_class'       => ['id', 'class_name'],
         'tax_rate'        => ['id', 'code'],
+        'tax_rule'        => ['id', 'code'],
         'attribute_set'   => ['id', 'name'],
         'agreements'      => ['id', 'name'],
         'customer_group'  => ['id', 'customer_group_code'],
@@ -94,6 +95,7 @@ class Parser
         'product'         => '_getProductInstance',
         'featured_block'  => '_getFeaturedBlockInstance',
         'tax_class'       => '_getTaxClassInstance',
+        'tax_rule'        => '_getTaxRuleInstance',
         'tax_rate'        => '_getTaxRateInstance',
         'attribute_set'   => '_getAttributeSetInstance',
         'agreements'      => '_getAgreementsInstance',
@@ -554,6 +556,19 @@ class Parser
                 throw new \Exception(sprintf('Invalid tax class field name "%s"', $field));
         }
     }
+
+    protected function _getTaxRuleInstance($field, $value)
+    {
+        switch ($field) {
+            case 'id':
+                return $this->_getHelper()->getTaxRuleModel()->load($value, 'id');
+            case 'code':
+                return $this->_getHelper()->getTaxRuleModel()->load($value, 'code');
+            default:
+                throw new \Exception(sprintf('Invalid tax rule field name "%s"', $field));
+        }
+    }
+
 
     protected function _getTaxRateInstance($field, $value)
     {
