@@ -117,8 +117,9 @@ class AbstractConfigurationAction extends AbstractAction
     {
         \Mage::getModel('install/resource_setup')->createStoreWebsite(
             [
-                'code'  => $this->getParameters()->getCode(),
-                'name'  => $this->getParameters()->getName()
+                'code'       => $this->getParameters()->getCode(),
+                'name'       => $this->getParameters()->getName(),
+                'is_default' => $this->getParameters()->getIsDefault() ?: 0,
             ]
         );
 
