@@ -117,8 +117,9 @@ class AbstractConfigurationAction extends AbstractAction
     {
         \Mage::getModel('install/resource_setup')->createStoreWebsite(
             [
-                'code'  => $this->getParameters()->getCode(),
-                'name'  => $this->getParameters()->getName()
+                'code'       => $this->getParameters()->getCode(),
+                'name'       => $this->getParameters()->getName(),
+                'is_default' => $this->getParameters()->getIsDefault() ?: 0,
             ]
         );
 
@@ -132,11 +133,16 @@ class AbstractConfigurationAction extends AbstractAction
      */
     protected function _createStore()
     {
+        $isActive = true;
+        if ($this->getParameters()->hasData('is_active')) {
+            $isActive = $this->getParameters()->getIsActive();
+        }
+        
         \Mage::getModel('install/resource_setup')->createStoreView(
             [
                 'name'              => $this->getParameters()->getName(),
                 'code'              => $this->getParameters()->getCode(),
-                'is_active'         => 1,
+                'is_active'         => $isActive,
                 'group_id'          => $this->getParameters()->getGroup(),
                 'website_id'        => $this->getParameters()->getWebsite()
             ]

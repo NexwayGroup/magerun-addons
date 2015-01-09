@@ -393,7 +393,7 @@ class LoadCommand extends AbstractMagentoCommand
             return NULL;
         }
 
-        $utils = Utils::getInstance();
+        $utils = new Utils();
         $data = include($file);
 
         if (!$data) {

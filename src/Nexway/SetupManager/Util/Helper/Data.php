@@ -49,6 +49,14 @@ class Data
     {
         return new Image;
     }
+    
+    /**
+     * @return Mage_Core_Model_Store_Group
+     */
+    public function getStoreGroupModel()
+    {
+        return \Mage::getModel('core/store_group');
+    }
 
     /**
      * @return \Mage_Core_Model_Store
@@ -103,6 +111,11 @@ class Data
     public function getTaxClassModel()
     {
         return \Mage::getModel('tax/class');
+    }
+
+    public function getTaxRuleModel()
+    {
+        return \Mage::getModel('tax/calculation_rule');
     }
 
     public function getTaxRateModel()
