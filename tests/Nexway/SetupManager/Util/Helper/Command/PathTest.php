@@ -64,7 +64,7 @@ class PathTest extends \PHPUnit_Framework_TestCase
         $paramPath = 'configuration/param/path/';
         $path = new Path($paramPath, 'whatever', 'rootdir');
 
-        $this->assertEquals('configuration/param/path/', $path->getParamPath());
+        $this->assertEquals($paramPath, $path->getParamPath());
     }
 
     /**

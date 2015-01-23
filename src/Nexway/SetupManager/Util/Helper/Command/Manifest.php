@@ -20,6 +20,9 @@ class Manifest
      */
     protected $_config;
 
+    /**
+     * @var \Nexway\SetupManager\Util\Helper\Command\Path
+     */
     protected $_path;
 
     /**
@@ -56,6 +59,10 @@ class Manifest
     }
 
     /**
+     * Checks if group from path is declared in manifest.
+     * Manifest is valid if path ends with: configuration/website/[group],
+     * where group is declared in manifest.
+     * 
      * @param \DOMDocument $xml
      * @param Path $path
      * @return bool
