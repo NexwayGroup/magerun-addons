@@ -14,6 +14,18 @@ use Nexway\SetupManager\Util\Processor\Action;
 class Processor
 {
     /**
+     * Preprocessors name
+     * @const string
+     */
+    const PRE_PROCESSORS = 'preprocessors';
+
+    /**
+     * Postprocessors name
+     * @const string
+     */
+    const POST_PROCESSORS = 'postprocessors';
+
+    /**
      * Current paths
      *
      * @var \Varien_Object

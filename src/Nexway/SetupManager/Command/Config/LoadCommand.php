@@ -7,6 +7,8 @@ ini_set('memory_limit', '64M');
 use Nexway\SetupManager\Util\Helper\Parser;
 use Nexway\SetupManager\Util\Helper\Processor;
 use Nexway\SetupManager\Util\Helper\Utils;
+use Nexway\SetupManager\Util\Helper\Command\Manifest;
+use Nexway\SetupManager\Util\Helper\Command\Path;
 use N98\Magento\Command\AbstractMagentoCommand;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputArgument;
@@ -20,18 +22,6 @@ class LoadCommand extends AbstractMagentoCommand
      * @const string
      */
     const BASE_DIRECTORY = 'configuration';
-
-    /**
-     * Preprocessors node
-     * @const string
-     */
-    const PRE_PROCESSORS = 'preprocessors';
-
-    /**
-     * Postprocessors node
-     * @const string
-     */
-    const POST_PROCESSORS = 'postprocessors';
 
     /**
      * value for point that [OK] or [ERROR] string will show up
@@ -66,17 +56,14 @@ class LoadCommand extends AbstractMagentoCommand
 
     protected $_baseDirectory = '';
 
-    /**
-     * Stores current configuration
-     * @var \Varien_Simplexml_Config
-     */
-    protected $_config;
-
-    /** @var InputInterface $input */
+    /** @var InputInterface $_input */
     protected $_input;
 
-    /** @var OutputInterface $input */
+    /** @var OutputInterface $_output*/
     protected $_output;
+
+    /** @var  Manifest $_manifest */
+    protected $_manifest;
 
     /**
      * Stores processor instance
@@ -133,9 +120,10 @@ class LoadCommand extends AbstractMagentoCommand
     {
         $this->detectMagento($output);
         if ($this->initMagento()) {
-            
-            $this->_input = $input;
-            $this->_output = $output;
+
+            $this->_input    = $input;
+            $this->_output   = $output;
+            $this->_manifest = new Manifest();
 
             // Set base directory
             $this->_baseDirectory = \Mage::getBaseDir() . DS . self::BASE_DIRECTORY;
@@ -157,20 +145,16 @@ class LoadCommand extends AbstractMagentoCommand
             // load configuration file
             if (is_file($configurationPath)) {
                 $this->_loadFile($configurationPath);
-                if (!$this->_errors) {
-                    $this->_runProcessors(self::POST_PROCESSORS);
-                }
             } else {
                 $this->_processDirectory($configurationPath);
-                if (!$this->_errors) {
-                    $this->_runProcessors(self::POST_PROCESSORS);
-                }
             }
+
+            $this->_runProcessors(Processor::POST_PROCESSORS);
 
             $this->_showFinalMessages();
             return true;
         }
-        
+
         return true;
     }
 
@@ -205,29 +189,22 @@ class LoadCommand extends AbstractMagentoCommand
     protected function _initProcessor()
     {
         $this->_processor = Processor::getInstance();
-        $path = $this->_input->getArgument('path');
+        $paramPath = $this->_input->getArgument('path');
 
         // If path cannot be loaded, exit immediately
-        if (!$path) {
+        if (!$paramPath) {
             return;
         }
 
-        // Resolve current base path for configuration
-        preg_match('/(configuration\/[a-z_-]+)\//', $path, $basePath);
-        if ($basePath) {
-            $basePath = $basePath[1];
-            $path = new \Varien_Object([
-                'root'  => $this->_baseDirectory,
-                'directory' => $basePath,
-                'full'  => getcwd() . DS . $basePath
-            ]);
+        $path = new Path($paramPath, getcwd(), $this->_baseDirectory);
 
+        if ($path->isValid()) {
             $this->_processor->setPath($path);
 
             if (!$this->_input->getOption('ignore-manifest')) {
-                $this->_loadManifest($path);
+                $this->_manifest->load($path);
                 // Check if we've some preprocessor task to complete
-                $this->_runProcessors(self::PRE_PROCESSORS);
+                $this->_runProcessors(Processor::PRE_PROCESSORS);
             }
         }
     }
@@ -249,43 +226,19 @@ class LoadCommand extends AbstractMagentoCommand
     }
 
     /**
-     * Loads SM manifest
-     *
-     * @param  \Varien_Object $path Path object
-     * @return void
-     */
-    protected function _loadManifest(\Varien_Object $path)
-    {
-        $manifest = $path->getFull() . DS . 'manifest.xml';
-        $xml = new \Varien_Simplexml_Config();
-
-        if ($xml->loadFile($manifest)) {
-            $this->_config = $xml;
-        }
-    }
-
-    /**
      * Runs a specific processor (preprocessor/postprocessor)
      *
-     * @param  string $processor Processor name
+     * @param  string $processorType Processor name
      * @return void
      */
-    protected function _runProcessors($processor = self::PRE_PROCESSORS)
+    protected function _runProcessors($processorType = Processor::PRE_PROCESSORS)
     {
-        if (!$this->_config) {
-            return;
-        }
+        $processors = $this->_manifest->getProcessors($processorType);
 
-        $processorsNode  = $this->_config->getNode($processor);
-        if ($processorsNode) {
-            // List all preprocess
-            foreach ($processorsNode->children() as $processor) {
-                if ($processor->getName() === 'directory') {
-                    $directory = $this->_baseDirectory . DS . (string) $processor;
-                    // Process directory
-                    $this->_processDirectory($directory);
-                }
-            }
+        foreach ($processors as $processor) {
+            $directory = $this->_baseDirectory . DS . (string) $processor;
+            // Process directory
+            $this->_processDirectory($directory);
         }
     }
 

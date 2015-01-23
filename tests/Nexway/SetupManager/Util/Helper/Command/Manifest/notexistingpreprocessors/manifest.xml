@@ -1,0 +1,10 @@
+<config>
+    <type>checkout</type>
+    <allowed_groups>
+        <group>prod</group>
+        <group>prep</group>
+    </allowed_groups>
+    <postprocessors>
+        <directory>eset/common_after</directory>
+    </postprocessors>
+</config>
