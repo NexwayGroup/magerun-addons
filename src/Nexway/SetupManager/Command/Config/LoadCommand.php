@@ -7,7 +7,8 @@ ini_set('memory_limit', '64M');
 use Nexway\SetupManager\Util\Helper\Parser;
 use Nexway\SetupManager\Util\Helper\Processor;
 use Nexway\SetupManager\Util\Helper\Utils;
-use Nexway\SetupManager\Util\Manifest;
+use Nexway\SetupManager\Util\Helper\Command\Manifest;
+use Nexway\SetupManager\Util\Helper\Command\Path;
 use N98\Magento\Command\AbstractMagentoCommand;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputArgument;
@@ -188,24 +189,16 @@ class LoadCommand extends AbstractMagentoCommand
     protected function _initProcessor()
     {
         $this->_processor = Processor::getInstance();
-        $path = $this->_input->getArgument('path');
+        $paramPath = $this->_input->getArgument('path');
 
         // If path cannot be loaded, exit immediately
-        if (!$path) {
+        if (!$paramPath) {
             return;
         }
 
-        // Resolve current base path for configuration
-        preg_match('/(configuration\/[a-z_-]+)\/([a-z_-]+)/', $path, $basePath);
-        if ($basePath) {
-            $path = new \Varien_Object([
-                'root'       => $this->_baseDirectory,
-                'directory'  => $basePath[1],
-                'full'       => getcwd() . DS . $basePath[1],
-                'group'      => $basePath[2],
-                'param_path' => $path
-            ]);
+        $path = new Path($paramPath, getcwd(), $this->_baseDirectory);
 
+        if ($path->isValid()) {
             $this->_processor->setPath($path);
 
             if (!$this->_input->getOption('ignore-manifest')) {
@@ -235,27 +228,17 @@ class LoadCommand extends AbstractMagentoCommand
     /**
      * Runs a specific processor (preprocessor/postprocessor)
      *
-     * @param  string $processor Processor name
+     * @param  string $processorType Processor name
      * @return void
      */
-    protected function _runProcessors($processor = Processor::PRE_PROCESSORS)
+    protected function _runProcessors($processorType = Processor::PRE_PROCESSORS)
     {
-        $config = $this->_manifest->getConfig();
+        $processors = $this->_manifest->getProcessors($processorType);
 
-        if (!$config) {
-            return;
-        }
-
-        $processorsNode = $config->getNode($processor);
-        if ($processorsNode) {
-            // List all preprocess
-            foreach ($processorsNode->children() as $processor) {
-                if ($processor->getName() === 'directory') {
-                    $directory = $this->_baseDirectory . DS . (string) $processor;
-                    // Process directory
-                    $this->_processDirectory($directory);
-                }
-            }
+        foreach ($processors as $processor) {
+            $directory = $this->_baseDirectory . DS . (string) $processor;
+            // Process directory
+            $this->_processDirectory($directory);
         }
     }
 
