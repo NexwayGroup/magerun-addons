@@ -29,6 +29,18 @@ class Utils
     const CREATE_STORE_CONFIG_ACTION    = 'store/createconfig';
 
     /**
+     * @const int Start date (01.01.2015) for test order prefix counter
+     * @see ::generateRandomPrefix() below
+     */
+    const TEST_ORDER_PREFIX_DATE = 1420066800; // 01.01.2015
+
+    /**
+     * @const int Length of prefix in test orders
+     * @see ::generateRandomPrefix() below
+     */
+    const TEST_ORDER_PREFIX_LENGTH = 8;
+
+    /**
      * extracts config from squeezed form
      *
      * from
@@ -395,18 +407,22 @@ class Utils
     }
 
     /**
-     * generate random prefix for order number
+     * Generate unique and random prefix for order number
+     *
+     * Prefix is made up of two components: timestamp based and genuinely random.
+     * Timestamp is calculated from 01.01.2015 and converted to base 36 in upper case.
+     * It is then right padded with random upper case characters up to 8 characters.
+     *
+     * @see ::TEST_ORDER_PREFIX_DATE for start date
+     * @see ::TEST_ORDER_PREFIX_LENGTH for prefix length
+     *
+     * @return string
      */
     public function generateRandomOrderPrefix()
     {
-        $randomInt      = '';
-        $randomChars    = '';
-
-        for ($i = 0; $i < 3; $i++) {
-            $randomInt      .= rand(0, 9);
-            $randomChars    .= chr(rand(65, 90));
-        }
-
-        return $randomChars . $randomInt;
+        $counter = time() - self::TEST_ORDER_PREFIX_DATE;
+        $counterBase36 = strtoupper(base_convert($counter, 10, 36));
+        $randomComponent = chr(rand(65, 90)) . chr(rand(65, 90)) . chr(rand(65, 90));
+        return str_pad($counterBase36, self::TEST_ORDER_PREFIX_LENGTH, $randomComponent, STR_PAD_RIGHT);
     }
 }
