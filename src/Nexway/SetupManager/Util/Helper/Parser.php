@@ -72,7 +72,7 @@ class Parser
         'attribute_set'   => ['id', 'name'],
         'agreements'      => ['id', 'name'],
         'customer_group'  => ['id', 'customer_group_code'],
-        'image'           => ['id', 'local'],
+        'image'           => ['id', 'local', 'favicon', 'theme'],
     ];
 
     /**
@@ -660,9 +660,12 @@ class Parser
     {
         switch ($field) {
             case 'local':
+            case 'favicon':
+            case 'theme':
                 return $this->_getHelper()->getImageModel()->fromLocalPath(
                     $this->getProcessor()->getPath(),
-                    $value
+                    $value,
+                    $field
                 );
             default:
                 throw new \Exception(sprintf('Invalid image field name "%s"', $field));

@@ -1,6 +1,7 @@
 <?php
 
 namespace Nexway\SetupManager\Util\Processor;
+use Nexway\SetupManager\Util\Image as Image;
 
 /**
  * allow to create, update or remove system configuration
@@ -81,9 +82,16 @@ class AbstractConfigurationAction extends AbstractAction
      */
     protected function _createConfig()
     {
+        $value = $this->getParameters()->getValue();
+        if ($value instanceof Image) {
+            $value->create();
+            $value = $value->getFileName() . '.' . $value->getFileExtension();
+            $this->getParameters()->setValue($value);
+        }
+
         $this->getConfigModel()->saveConfig(
             $this->getParameters()->getKey(),
-            $this->getParameters()->getValue(),
+            $value,
             $this->getScope(),
             $this->getParameters()->getStore()
         );

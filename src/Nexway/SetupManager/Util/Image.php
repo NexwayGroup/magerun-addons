@@ -28,13 +28,14 @@ class Image extends \Varien_Object
      * Creates images from local filesystem path
      *
      * @param  \Varien_Object $path     Path passed by the shell
-     * @param  string        $filename Filename
+     * @param  string         $filename Filename
+     * @param  string         $type     Media Type
      * @return Image
      */
-    public function fromLocalPath(\Varien_Object $path, $filename)
+    public function fromLocalPath(\Varien_Object $path, $filename, $type = '')
     {
         // Replace backslash by regular slash in file path (otherwise breaks the parser)
-        $filename = str_replace('\\', '/', $filename);
+        $filename  = str_replace('\\', '/', $filename);
         $imagePath = $path->getRoot() . DS . $filename;
 
         $parts = pathinfo($imagePath);
@@ -44,7 +45,8 @@ class Image extends \Varien_Object
             'full_path'      => $imagePath,
             'relative_path'  => $path->getDirectory() . DS . $filename,
             'file_name'      => $parts['filename'],
-            'file_extension' => $parts['extension']
+            'file_extension' => $parts['extension'],
+            'type'           => $type
         ]);
 
         // Retrieve binary contents
@@ -67,37 +69,63 @@ class Image extends \Varien_Object
         }
 
         $imageFileContent = $this->getBinaryData();
-        $smTempDirTopLevel = \Mage::getBaseDir('var') . DS . 'sm';
-        $smTempDir = $smTempDirTopLevel . DS . \Mage::helper('core')->uniqHash();
-        $imageFileName = $this->_getFileName();
+        $imageFileName    = $this->_getFileName();
 
-        $ioAdapter = new \Varien_Io_File();
-        $ioAdapter->checkAndCreateFolder($smTempDir);
-        $ioAdapter->open(array('path' => $smTempDir));
-        $ioAdapter->write($imageFileName, $imageFileContent, 0666);
-        unset($imageFileContent);
+        $type = $this->getType();
+        switch ($type) {
+            case 'local':
+                $smTempDirTopLevel = \Mage::getBaseDir('var') . DS . 'sm';
+                $smTempDir = $smTempDirTopLevel . DS . \Mage::helper('core')->uniqHash();
 
-        // try to create Image object to check if image data is valid
-        try {
-            new \Varien_Image($smTempDir . DS . $imageFileName);
-        } catch (\Exception $e) {
-            $ioAdapter->rmdir($smTempDir, true);
-            throw new \Exception($e->getMessage());
+                $ioAdapter = new \Varien_Io_File();
+                $ioAdapter->checkAndCreateFolder($smTempDir);
+                $ioAdapter->open(array('path' => $smTempDir));
+                $ioAdapter->write($imageFileName, $imageFileContent, 0666);
+                unset($imageFileContent);
+
+                // try to create Image object to check if image data is valid
+                try {
+                    new \Varien_Image($smTempDir . DS . $imageFileName);
+                } catch (\Exception $e) {
+                    $ioAdapter->rmdir($smTempDir, true);
+                    throw new \Exception($e->getMessage());
+                }
+                $product = $this->getProduct();
+
+                if ($product->getId()) {
+                    // Delete existing image of the same type
+                    $this->_delete();
+                }
+
+                $imageFileUri = $this->_getMediaGallery()
+                    ->addImage($product, $smTempDir . DS . $imageFileName, $this->getTypes(), true);
+                $ioAdapter->rmdir($smTempDir, true);
+
+                if ($this->hasTypes()) {
+                    $this->_getMediaGallery()->setMediaAttribute($product, $this->getTypes(), $imageFileUri);
+                }
+                break;
+
+            case 'favicon':
+            case 'theme':
+                $destFolder = \Mage::getBaseDir('media') . DS . $type;
+
+                $ioAdapter = new \Varien_Io_File();
+                $ioAdapter->checkAndCreateFolder($destFolder);
+                $ioAdapter->open(array('path' => $destFolder));
+                $ioAdapter->write($imageFileName, $imageFileContent, 0666);
+                unset($imageFileContent);
+
+                // try to create Image object to check if image data is valid
+                try {
+                    new \Varien_Image($destFolder . DS . $imageFileName);
+                } catch (\Exception $e) {
+                    $ioAdapter->rmdir($destFolder, true);
+                    throw new \Exception($e->getMessage());
+                }
+                break;
         }
-        $product = $this->getProduct();
-
-        if ($product->getId()) {
-            // Delete existing image of the same type
-            $this->_delete();
-        }
-
-        $imageFileUri = $this->_getMediaGallery()
-            ->addImage($product, $smTempDir . DS . $imageFileName, $this->getTypes(), true);
-        $ioAdapter->rmdir($smTempDir, true);
-
-        if ($this->hasTypes()) {
-            $this->_getMediaGallery()->setMediaAttribute($product, $this->getTypes(), $imageFileUri);
-        }
+        
 
         return $this;
     }
