@@ -187,4 +187,41 @@ class Image extends \Varien_Object
 
         return $fileName;
     }
+
+    /**
+     * @return boolean
+     */
+    public function isBase64($value)
+    {
+        if (false !== strpos($value, ':')) {
+            $infos = explode(':', $value);
+            return 'base64' === $infos[0];
+        }
+
+        return false;
+    }
+
+    /**
+     * Create Image from base64
+     *
+     * @param  string         $type     Media Type
+     * @param  string         $filename Filename
+     * @param  string         $ext      Extension
+     * @param  binary         $image    Binary image
+     * @return Image
+     */
+    public function fromBase64($type, $filename, $ext, $image)
+    {
+        $this->setData([
+            'binary_data'    => $image,
+            'file_name'      => $filename,
+            'file_extension' => $ext,
+            'type'           => $type
+        ]);
+
+        // Retrieve binary contents
+        $this->setId($this);
+
+        return $this;
+    }
 }

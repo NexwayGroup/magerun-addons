@@ -662,6 +662,22 @@ class Parser
             case 'local':
             case 'favicon':
             case 'theme':
+                // base64 image parser
+                // replace the "/"" by "__" in the base64 encoded image
+                // expected data: "base64:image type:image name:base64 encoded image"
+                if ($this->_getHelper()->getImageModel()->isBase64($value)) {
+                    $infos = explode(':', $value);
+                    $image = str_replace('__', '/', $infos[3]);
+                    $image = base64_decode($image);
+
+                    return $this->_getHelper()->getImageModel()->fromBase64(
+                        $field,
+                        $infos[2],
+                        $infos[1],
+                        $image
+                    );
+                }
+
                 return $this->_getHelper()->getImageModel()->fromLocalPath(
                     $this->getProcessor()->getPath(),
                     $value,
