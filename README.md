@@ -29,12 +29,17 @@ This command will save magento instance configuration
 
     $ n98-magerun.phar nexway:config:save all path_to_directory
 
-If you want to check all possible configuration types just run 
+If you want to check all possible configuration types just run
 
     $ n98-magerun.phar nexway:config:save --help
-    
+
 ### Load magento configuration, cms, blocks, taxes etc ###
 
 This command will load magento instance configuration
 
     $ n98-magerun.phar nexway:config:load path_to_directory
+
+Actions
+-------
+
+* salesrule [details](src/Nexway/SetupManager/Util/Processor/Action/Salesrule/README.md)
