@@ -1,14 +1,13 @@
 {
     "name": "nexway/magerun-addons",
     "type": "magento-module",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "Magerun addons: SetupManeger",
     "homepage": "http://nexway.com",
     "license": "MIT",
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-        "n98/magerun": "dev-master",
+        "n98/magerun": "*",
         "magento-hackathon/magento-composer-installer": "*"
     },
     "require-dev": {
