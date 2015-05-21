@@ -1,7 +1,7 @@
 {
     "name": "nexway/magerun-addons",
     "type": "magento-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Magerun addons: SetupManeger",
     "homepage": "http://nexway.com",
     "license": "MIT",
