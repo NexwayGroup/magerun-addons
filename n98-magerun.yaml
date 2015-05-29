@@ -5,3 +5,4 @@ commands:
   customCommands:
     - Nexway\SetupManager\Command\Config\LoadCommand
     - Nexway\SetupManager\Command\Config\SaveCommand
+    - Nexway\SetupManager\Command\Config\SqueezeCommand

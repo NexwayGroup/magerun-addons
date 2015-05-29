@@ -22,7 +22,7 @@ class Nexway_SetupManager_Test_Helper_UtilsSqueezeTest extends
         $squeezed = $this->utils->squeeze(
             [
                 [
-                    'defaultscope/createconfig',
+                    'default/createconfig',
                     'parameters' => [
                         'key'   => 'key/config',
                         'value' => 'confval'
@@ -44,14 +44,14 @@ class Nexway_SetupManager_Test_Helper_UtilsSqueezeTest extends
         $squeezed = $this->utils->squeeze(
             [
                 [
-                    'defaultscope/createconfig',
+                    'default/createconfig',
                     'parameters' => [
                         'key'   => 'key/config',
                         'value' => 'confval'
                     ]
                 ],
                 [
-                    'defaultscope/createconfig',
+                    'default/createconfig',
                     'parameters' => [
                         'key'   => 'key/config2',
                         'value' => 'confval2'
@@ -79,7 +79,7 @@ class Nexway_SetupManager_Test_Helper_UtilsSqueezeTest extends
         $squeezed = $this->utils->squeeze(
             [
                 [
-                    'defaultscope/createconfig',
+                    'default/createconfig',
                     'parameters' => [
                         'key'   => 'key/config',
                         'value' => "confval'd"
@@ -274,7 +274,7 @@ class Nexway_SetupManager_Test_Helper_UtilsSqueezeTest extends
         $squeezed = $this->utils->squeeze(
             [
                 [
-                    'defaultscope/createconfig',
+                    'default/createconfig',
                     'parameters' => [
                         'key'   => 'confPath',
                         'value' => 'confVal',
