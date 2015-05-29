@@ -1,5 +1,7 @@
 <?php
 namespace Nexway\SetupManager\Util;
+
+use Nexway\SetupManager\Util\Helper\Command\Path;
 /**
  * @category    Nexway
  * @package     Nexway_SetupManager
@@ -27,12 +29,12 @@ class Image extends \Varien_Object
     /**
      * Creates images from local filesystem path
      *
-     * @param  \Varien_Object $path     Path passed by the shell
+     * @param  Path $path     Path passed by the shell
      * @param  string         $filename Filename
      * @param  string         $type     Media Type
      * @return Image
      */
-    public function fromLocalPath(\Varien_Object $path, $filename, $type = '')
+    public function fromLocalPath(Path $path, $filename, $type = '')
     {
         // Replace backslash by regular slash in file path (otherwise breaks the parser)
         $filename  = str_replace('\\', '/', $filename);

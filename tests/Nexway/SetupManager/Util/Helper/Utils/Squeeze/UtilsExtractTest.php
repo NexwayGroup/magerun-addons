@@ -61,7 +61,7 @@ class Nexway_SetupManager_Test_Helper_UtilsExtractTest extends PHPUnit_Framework
         $this->assertEquals(
             [
                 [
-                    'defaultscope/createconfig',
+                    'default/createconfig',
                     'parameters' => [
                         'key' => 'abandonment/alert_identity/email_identity',
                         'value' => 'general'

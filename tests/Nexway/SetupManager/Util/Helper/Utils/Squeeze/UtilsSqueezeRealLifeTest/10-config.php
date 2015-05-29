@@ -3,7 +3,7 @@ return
 array (
   0 => 
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/alert_identity/email_identity',
@@ -12,7 +12,7 @@ array (
   ),
   1 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/first_alert_config/delay',
@@ -21,7 +21,7 @@ array (
   ),
   2 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/first_alert_config/enabled',
@@ -30,7 +30,7 @@ array (
   ),
   3 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/first_alert_config/template',
@@ -39,7 +39,7 @@ array (
   ),
   4 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/second_alert_config/delay',
@@ -48,7 +48,7 @@ array (
   ),
   5 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/second_alert_config/enabled',
@@ -57,7 +57,7 @@ array (
   ),
   6 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/second_alert_config/template',
@@ -66,7 +66,7 @@ array (
   ),
   7 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/third_alert_config/delay',
@@ -75,7 +75,7 @@ array (
   ),
   8 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/third_alert_config/enabled',
@@ -84,7 +84,7 @@ array (
   ),
   9 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'abandonment/third_alert_config/template',
@@ -93,7 +93,7 @@ array (
   ),
   10 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/base_dn',
@@ -102,7 +102,7 @@ array (
   ),
   11 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/create_user',
@@ -111,7 +111,7 @@ array (
   ),
   12 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/firstname_field',
@@ -120,7 +120,7 @@ array (
   ),
   13 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/is_enabled',
@@ -129,7 +129,7 @@ array (
   ),
   14 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/lastname_field',
@@ -138,7 +138,7 @@ array (
   ),
   15 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/mail_field',
@@ -147,7 +147,7 @@ array (
   ),
   16 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/network_timeout',
@@ -156,7 +156,7 @@ array (
   ),
   17 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/server_port',
@@ -165,7 +165,7 @@ array (
   ),
   18 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/server_url',
@@ -174,7 +174,7 @@ array (
   ),
   19 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/adminldapauth/uid_field',
@@ -183,7 +183,7 @@ array (
   ),
   20 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/captcha/enable',
@@ -192,7 +192,7 @@ array (
   ),
   21 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/dashboard/enable_charts',
@@ -201,7 +201,7 @@ array (
   ),
   22 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/emails/forgot_email_identity',
@@ -210,7 +210,7 @@ array (
   ),
   23 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/emails/forgot_email_template',
@@ -219,7 +219,7 @@ array (
   ),
   24 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/emails/password_reset_link_expiration_period',
@@ -228,7 +228,7 @@ array (
   ),
   25 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/notificationdisabler/enabled',
@@ -237,7 +237,7 @@ array (
   ),
   26 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/notificationdisabler/only_popup',
@@ -246,7 +246,7 @@ array (
   ),
   27 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/security/session_cookie_lifetime',
@@ -255,7 +255,7 @@ array (
   ),
   28 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/security/use_case_sensitive_login',
@@ -264,7 +264,7 @@ array (
   ),
   29 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/security/use_form_key',
@@ -273,7 +273,7 @@ array (
   ),
   30 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/startup/page',
@@ -282,7 +282,7 @@ array (
   ),
   31 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/url/use_custom',
@@ -291,7 +291,7 @@ array (
   ),
   32 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'admin/url/use_custom_path',
@@ -300,7 +300,7 @@ array (
   ),
   33 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'advanced/modules_disable_output/Mageplace_Notification',
@@ -309,7 +309,7 @@ array (
   ),
   34 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'advanced/modules_disable_output/Mage_AdminNotification',
@@ -318,7 +318,7 @@ array (
   ),
   35 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'ajaxcartpro/general/cartanimation',
@@ -327,7 +327,7 @@ array (
   ),
   36 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'ajaxcartpro/general/confirmation',
@@ -336,7 +336,7 @@ array (
   ),
   37 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'ajaxcartpro/general/countdown',
@@ -345,7 +345,7 @@ array (
   ),
   38 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'ajaxcartpro/general/progressanimation',
@@ -354,7 +354,7 @@ array (
   ),
   39 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'ajaxcartpro/general/showprogressanimation',
@@ -363,7 +363,7 @@ array (
   ),
   40 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'ambase/feed/installed',
@@ -372,7 +372,7 @@ array (
   ),
   41 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'amnotfound/attempts/black',
@@ -381,7 +381,7 @@ array (
   ),
   42 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'amnotfound/errors/last_run',
@@ -390,7 +390,7 @@ array (
   ),
   43 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'autocomplete/advanced/query_delay',
@@ -399,7 +399,7 @@ array (
   ),
   44 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'autocomplete/advanced/template',
@@ -429,7 +429,7 @@ array (
   ),
   45 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'autocomplete/general/enabled',
@@ -438,7 +438,7 @@ array (
   ),
   46 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'autocomplete/general/limit',
@@ -447,7 +447,7 @@ array (
   ),
   47 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'autocomplete/general/list_width',
@@ -456,7 +456,7 @@ array (
   ),
   48 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'autocomplete/general/min_length',
@@ -465,7 +465,7 @@ array (
   ),
   49 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'autocomplete/general/product_page',
@@ -474,7 +474,7 @@ array (
   ),
   50 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'autocomplete/general/thumbnail_width',
@@ -483,7 +483,7 @@ array (
   ),
   51 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'aviaryeditor_section/aviaryeditor_group/aviaryeditor_field',
@@ -492,7 +492,7 @@ array (
   ),
   52 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'awall/install/run',
@@ -501,7 +501,7 @@ array (
   ),
   53 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_group/background_absolute',
@@ -510,7 +510,7 @@ array (
   ),
   54 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_group/background_attachment',
@@ -519,7 +519,7 @@ array (
   ),
   55 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_group/background_element',
@@ -528,7 +528,7 @@ array (
   ),
   56 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_group/background_element_list',
@@ -537,7 +537,7 @@ array (
   ),
   57 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_group/background_field',
@@ -546,7 +546,7 @@ array (
   ),
   58 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_group/background_other',
@@ -555,7 +555,7 @@ array (
   ),
   59 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_group/background_position',
@@ -564,7 +564,7 @@ array (
   ),
   60 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_group/background_sort_method',
@@ -573,7 +573,7 @@ array (
   ),
   61 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_main_image/background_image_field',
@@ -582,7 +582,7 @@ array (
   ),
   62 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_main_image/background_image_field_color',
@@ -591,7 +591,7 @@ array (
   ),
   63 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_main_image/background_image_field_color_autodetect',
@@ -600,7 +600,7 @@ array (
   ),
   64 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image1',
@@ -609,7 +609,7 @@ array (
   ),
   65 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image10',
@@ -618,7 +618,7 @@ array (
   ),
   66 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image11',
@@ -627,7 +627,7 @@ array (
   ),
   67 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image12',
@@ -636,7 +636,7 @@ array (
   ),
   68 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image13',
@@ -645,7 +645,7 @@ array (
   ),
   69 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image14',
@@ -654,7 +654,7 @@ array (
   ),
   70 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image15',
@@ -663,7 +663,7 @@ array (
   ),
   71 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image16',
@@ -672,7 +672,7 @@ array (
   ),
   72 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image17',
@@ -681,7 +681,7 @@ array (
   ),
   73 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image18',
@@ -690,7 +690,7 @@ array (
   ),
   74 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image19',
@@ -699,7 +699,7 @@ array (
   ),
   75 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image2',
@@ -708,7 +708,7 @@ array (
   ),
   76 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image20',
@@ -717,7 +717,7 @@ array (
   ),
   77 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image3',
@@ -726,7 +726,7 @@ array (
   ),
   78 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image4',
@@ -735,7 +735,7 @@ array (
   ),
   79 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image5',
@@ -744,7 +744,7 @@ array (
   ),
   80 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image6',
@@ -753,7 +753,7 @@ array (
   ),
   81 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image7',
@@ -762,7 +762,7 @@ array (
   ),
   82 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image8',
@@ -771,7 +771,7 @@ array (
   ),
   83 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_enable_image9',
@@ -780,7 +780,7 @@ array (
   ),
   84 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image1',
@@ -789,7 +789,7 @@ array (
   ),
   85 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image10',
@@ -798,7 +798,7 @@ array (
   ),
   86 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image11',
@@ -807,7 +807,7 @@ array (
   ),
   87 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image12',
@@ -816,7 +816,7 @@ array (
   ),
   88 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image13',
@@ -825,7 +825,7 @@ array (
   ),
   89 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image14',
@@ -834,7 +834,7 @@ array (
   ),
   90 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image15',
@@ -843,7 +843,7 @@ array (
   ),
   91 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image16',
@@ -852,7 +852,7 @@ array (
   ),
   92 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image17',
@@ -861,7 +861,7 @@ array (
   ),
   93 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image18',
@@ -870,7 +870,7 @@ array (
   ),
   94 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image19',
@@ -879,7 +879,7 @@ array (
   ),
   95 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image2',
@@ -888,7 +888,7 @@ array (
   ),
   96 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image20',
@@ -897,7 +897,7 @@ array (
   ),
   97 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image3',
@@ -906,7 +906,7 @@ array (
   ),
   98 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image4',
@@ -915,7 +915,7 @@ array (
   ),
   99 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image5',
@@ -924,7 +924,7 @@ array (
   ),
   100 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image6',
@@ -933,7 +933,7 @@ array (
   ),
   101 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image7',
@@ -942,7 +942,7 @@ array (
   ),
   102 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image8',
@@ -951,7 +951,7 @@ array (
   ),
   103 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_order_image9',
@@ -960,7 +960,7 @@ array (
   ),
   104 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image1',
@@ -969,7 +969,7 @@ array (
   ),
   105 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image10_color',
@@ -978,7 +978,7 @@ array (
   ),
   106 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image10_color_autodetect',
@@ -987,7 +987,7 @@ array (
   ),
   107 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image11_color',
@@ -996,7 +996,7 @@ array (
   ),
   108 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image11_color_autodetect',
@@ -1005,7 +1005,7 @@ array (
   ),
   109 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image12_color',
@@ -1014,7 +1014,7 @@ array (
   ),
   110 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image12_color_autodetect',
@@ -1023,7 +1023,7 @@ array (
   ),
   111 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image13_color',
@@ -1032,7 +1032,7 @@ array (
   ),
   112 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image13_color_autodetect',
@@ -1041,7 +1041,7 @@ array (
   ),
   113 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image14_color',
@@ -1050,7 +1050,7 @@ array (
   ),
   114 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image14_color_autodetect',
@@ -1059,7 +1059,7 @@ array (
   ),
   115 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image15_color',
@@ -1068,7 +1068,7 @@ array (
   ),
   116 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image15_color_autodetect',
@@ -1077,7 +1077,7 @@ array (
   ),
   117 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image16_color',
@@ -1086,7 +1086,7 @@ array (
   ),
   118 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image16_color_autodetect',
@@ -1095,7 +1095,7 @@ array (
   ),
   119 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image17_color',
@@ -1104,7 +1104,7 @@ array (
   ),
   120 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image17_color_autodetect',
@@ -1113,7 +1113,7 @@ array (
   ),
   121 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image18_color',
@@ -1122,7 +1122,7 @@ array (
   ),
   122 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image18_color_autodetect',
@@ -1131,7 +1131,7 @@ array (
   ),
   123 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image19_color',
@@ -1140,7 +1140,7 @@ array (
   ),
   124 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image19_color_autodetect',
@@ -1149,7 +1149,7 @@ array (
   ),
   125 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image1_color',
@@ -1158,7 +1158,7 @@ array (
   ),
   126 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image1_color_autodetect',
@@ -1167,7 +1167,7 @@ array (
   ),
   127 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image20_color',
@@ -1176,7 +1176,7 @@ array (
   ),
   128 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image20_color_autodetect',
@@ -1185,7 +1185,7 @@ array (
   ),
   129 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image2_color',
@@ -1194,7 +1194,7 @@ array (
   ),
   130 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image2_color_autodetect',
@@ -1203,7 +1203,7 @@ array (
   ),
   131 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image3_color',
@@ -1212,7 +1212,7 @@ array (
   ),
   132 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image3_color_autodetect',
@@ -1221,7 +1221,7 @@ array (
   ),
   133 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image4_color',
@@ -1230,7 +1230,7 @@ array (
   ),
   134 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image4_color_autodetect',
@@ -1239,7 +1239,7 @@ array (
   ),
   135 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image5_color',
@@ -1248,7 +1248,7 @@ array (
   ),
   136 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image5_color_autodetect',
@@ -1257,7 +1257,7 @@ array (
   ),
   137 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image6_color',
@@ -1266,7 +1266,7 @@ array (
   ),
   138 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image6_color_autodetect',
@@ -1275,7 +1275,7 @@ array (
   ),
   139 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image7_color',
@@ -1284,7 +1284,7 @@ array (
   ),
   140 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image7_color_autodetect',
@@ -1293,7 +1293,7 @@ array (
   ),
   141 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image8_color',
@@ -1302,7 +1302,7 @@ array (
   ),
   142 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image8_color_autodetect',
@@ -1311,7 +1311,7 @@ array (
   ),
   143 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image9_color',
@@ -1320,7 +1320,7 @@ array (
   ),
   144 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'background/background_other/background_other_image9_color_autodetect',
@@ -1329,7 +1329,7 @@ array (
   ),
   145 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/account',
@@ -1338,7 +1338,7 @@ array (
   ),
   146 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/active',
@@ -1347,7 +1347,7 @@ array (
   ),
   147 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/additional_protection_enabled',
@@ -1356,7 +1356,7 @@ array (
   ),
   148 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/additional_protection_min_value',
@@ -1365,7 +1365,7 @@ array (
   ),
   149 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/additional_protection_rounding',
@@ -1374,7 +1374,7 @@ array (
   ),
   150 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/additional_protection_use_subtotal',
@@ -1383,7 +1383,7 @@ array (
   ),
   151 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/additional_protection_value',
@@ -1392,7 +1392,7 @@ array (
   ),
   152 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/allowed_methods',
@@ -1401,7 +1401,7 @@ array (
   ),
   153 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/contentdesc',
@@ -1410,7 +1410,7 @@ array (
   ),
   154 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/debug',
@@ -1419,7 +1419,7 @@ array (
   ),
   155 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/default_height',
@@ -1428,7 +1428,7 @@ array (
   ),
   156 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/default_length',
@@ -1437,7 +1437,7 @@ array (
   ),
   157 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/default_width',
@@ -1446,7 +1446,7 @@ array (
   ),
   158 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/dutiable',
@@ -1455,7 +1455,7 @@ array (
   ),
   159 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/dutypaymenttype',
@@ -1464,7 +1464,7 @@ array (
   ),
   160 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/free_method',
@@ -1473,7 +1473,7 @@ array (
   ),
   161 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/free_shipping_enable',
@@ -1482,7 +1482,7 @@ array (
   ),
   162 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/free_shipping_subtotal',
@@ -1491,7 +1491,7 @@ array (
   ),
   163 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/gateway_url',
@@ -1500,7 +1500,7 @@ array (
   ),
   164 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/handling_action',
@@ -1509,7 +1509,7 @@ array (
   ),
   165 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/handling_fee',
@@ -1518,7 +1518,7 @@ array (
   ),
   166 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/handling_type',
@@ -1527,7 +1527,7 @@ array (
   ),
   167 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/hazardous_materials',
@@ -1536,7 +1536,7 @@ array (
   ),
   168 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/id',
@@ -1545,7 +1545,7 @@ array (
   ),
   169 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/intl_shipment_days',
@@ -1554,7 +1554,7 @@ array (
   ),
   170 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/max_package_weight',
@@ -1563,7 +1563,7 @@ array (
   ),
   171 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/password',
@@ -1572,7 +1572,7 @@ array (
   ),
   172 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/sallowspecific',
@@ -1581,7 +1581,7 @@ array (
   ),
   173 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/shipment_days',
@@ -1590,7 +1590,7 @@ array (
   ),
   174 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/shipment_requesttype',
@@ -1599,7 +1599,7 @@ array (
   ),
   175 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/shipment_type',
@@ -1608,7 +1608,7 @@ array (
   ),
   176 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/shipping_intlkey',
@@ -1617,7 +1617,7 @@ array (
   ),
   177 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/shipping_key',
@@ -1626,7 +1626,7 @@ array (
   ),
   178 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/showmethod',
@@ -1635,7 +1635,7 @@ array (
   ),
   179 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/sort_order',
@@ -1644,7 +1644,7 @@ array (
   ),
   180 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/specificcountry',
@@ -1653,7 +1653,7 @@ array (
   ),
   181 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/specificerrmsg',
@@ -1662,7 +1662,7 @@ array (
   ),
   182 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhl/title',
@@ -1671,7 +1671,7 @@ array (
   ),
   183 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/account',
@@ -1680,7 +1680,7 @@ array (
   ),
   184 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/active',
@@ -1689,7 +1689,7 @@ array (
   ),
   185 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/content_type',
@@ -1698,7 +1698,7 @@ array (
   ),
   186 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/debug',
@@ -1707,7 +1707,7 @@ array (
   ),
   187 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/divide_order_weight',
@@ -1716,7 +1716,7 @@ array (
   ),
   188 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/doc_methods',
@@ -1725,7 +1725,7 @@ array (
   ),
   189 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/free_method_doc',
@@ -1734,7 +1734,7 @@ array (
   ),
   190 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/free_shipping_enable',
@@ -1743,7 +1743,7 @@ array (
   ),
   191 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/free_shipping_subtotal',
@@ -1752,7 +1752,7 @@ array (
   ),
   192 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/gateway_url',
@@ -1761,7 +1761,7 @@ array (
   ),
   193 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/handling_action',
@@ -1770,7 +1770,7 @@ array (
   ),
   194 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/handling_fee',
@@ -1779,7 +1779,7 @@ array (
   ),
   195 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/handling_type',
@@ -1788,7 +1788,7 @@ array (
   ),
   196 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/id',
@@ -1797,7 +1797,7 @@ array (
   ),
   197 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/password',
@@ -1806,7 +1806,7 @@ array (
   ),
   198 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/ready_time',
@@ -1815,7 +1815,7 @@ array (
   ),
   199 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/sallowspecific',
@@ -1824,7 +1824,7 @@ array (
   ),
   200 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/showmethod',
@@ -1833,7 +1833,7 @@ array (
   ),
   201 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/size',
@@ -1842,7 +1842,7 @@ array (
   ),
   202 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/sort_order',
@@ -1851,7 +1851,7 @@ array (
   ),
   203 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/specificcountry',
@@ -1860,7 +1860,7 @@ array (
   ),
   204 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/specificerrmsg',
@@ -1869,7 +1869,7 @@ array (
   ),
   205 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/title',
@@ -1878,7 +1878,7 @@ array (
   ),
   206 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/dhlint/unit_of_measure',
@@ -1887,7 +1887,7 @@ array (
   ),
   207 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/account',
@@ -1896,7 +1896,7 @@ array (
   ),
   208 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/active',
@@ -1905,7 +1905,7 @@ array (
   ),
   209 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/allowed_methods',
@@ -1914,7 +1914,7 @@ array (
   ),
   210 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/debug',
@@ -1923,7 +1923,7 @@ array (
   ),
   211 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/dropoff',
@@ -1932,7 +1932,7 @@ array (
   ),
   212 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/free_method',
@@ -1941,7 +1941,7 @@ array (
   ),
   213 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/free_shipping_enable',
@@ -1950,7 +1950,7 @@ array (
   ),
   214 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/free_shipping_subtotal',
@@ -1959,7 +1959,7 @@ array (
   ),
   215 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/handling_action',
@@ -1968,7 +1968,7 @@ array (
   ),
   216 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/handling_fee',
@@ -1977,7 +1977,7 @@ array (
   ),
   217 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/handling_type',
@@ -1986,7 +1986,7 @@ array (
   ),
   218 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/key',
@@ -1995,7 +1995,7 @@ array (
   ),
   219 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/max_package_weight',
@@ -2004,7 +2004,7 @@ array (
   ),
   220 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/meter_number',
@@ -2013,7 +2013,7 @@ array (
   ),
   221 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/packaging',
@@ -2022,7 +2022,7 @@ array (
   ),
   222 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/password',
@@ -2031,7 +2031,7 @@ array (
   ),
   223 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/residence_delivery',
@@ -2040,7 +2040,7 @@ array (
   ),
   224 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/sallowspecific',
@@ -2049,7 +2049,7 @@ array (
   ),
   225 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/sandbox_mode',
@@ -2058,7 +2058,7 @@ array (
   ),
   226 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/shipment_requesttype',
@@ -2067,7 +2067,7 @@ array (
   ),
   227 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/showmethod',
@@ -2076,7 +2076,7 @@ array (
   ),
   228 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/smartpost_hubid',
@@ -2085,7 +2085,7 @@ array (
   ),
   229 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/sort_order',
@@ -2094,7 +2094,7 @@ array (
   ),
   230 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/specificcountry',
@@ -2103,7 +2103,7 @@ array (
   ),
   231 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/specificerrmsg',
@@ -2112,7 +2112,7 @@ array (
   ),
   232 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/fedex/title',
@@ -2121,7 +2121,7 @@ array (
   ),
   233 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/active',
@@ -2130,7 +2130,7 @@ array (
   ),
   234 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/handling_fee',
@@ -2139,7 +2139,7 @@ array (
   ),
   235 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/handling_type',
@@ -2148,7 +2148,7 @@ array (
   ),
   236 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/name',
@@ -2157,7 +2157,7 @@ array (
   ),
   237 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/price',
@@ -2166,7 +2166,7 @@ array (
   ),
   238 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/sallowspecific',
@@ -2175,7 +2175,7 @@ array (
   ),
   239 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/showmethod',
@@ -2184,7 +2184,7 @@ array (
   ),
   240 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/sort_order',
@@ -2193,7 +2193,7 @@ array (
   ),
   241 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/specificcountry',
@@ -2202,7 +2202,7 @@ array (
   ),
   242 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/specificerrmsg',
@@ -2211,7 +2211,7 @@ array (
   ),
   243 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/title',
@@ -2220,7 +2220,7 @@ array (
   ),
   244 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/flatrate/type',
@@ -2229,7 +2229,7 @@ array (
   ),
   245 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/active',
@@ -2238,7 +2238,7 @@ array (
   ),
   246 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/free_shipping_subtotal',
@@ -2247,7 +2247,7 @@ array (
   ),
   247 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/name',
@@ -2256,7 +2256,7 @@ array (
   ),
   248 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/sallowspecific',
@@ -2265,7 +2265,7 @@ array (
   ),
   249 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/showmethod',
@@ -2274,7 +2274,7 @@ array (
   ),
   250 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/sort_order',
@@ -2283,7 +2283,7 @@ array (
   ),
   251 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/specificcountry',
@@ -2292,7 +2292,7 @@ array (
   ),
   252 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/specificerrmsg',
@@ -2301,7 +2301,7 @@ array (
   ),
   253 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/freeshipping/title',
@@ -2310,7 +2310,7 @@ array (
   ),
   254 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/active',
@@ -2319,7 +2319,7 @@ array (
   ),
   255 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/condition_name',
@@ -2328,7 +2328,7 @@ array (
   ),
   256 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/handling_fee',
@@ -2337,7 +2337,7 @@ array (
   ),
   257 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/handling_type',
@@ -2346,7 +2346,7 @@ array (
   ),
   258 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/include_virtual_price',
@@ -2355,7 +2355,7 @@ array (
   ),
   259 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/name',
@@ -2364,7 +2364,7 @@ array (
   ),
   260 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/sallowspecific',
@@ -2373,7 +2373,7 @@ array (
   ),
   261 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/showmethod',
@@ -2382,7 +2382,7 @@ array (
   ),
   262 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/sort_order',
@@ -2391,7 +2391,7 @@ array (
   ),
   263 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/specificcountry',
@@ -2400,7 +2400,7 @@ array (
   ),
   264 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/specificerrmsg',
@@ -2409,7 +2409,7 @@ array (
   ),
   265 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/tablerate/title',
@@ -2418,7 +2418,7 @@ array (
   ),
   266 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/access_license_number',
@@ -2427,7 +2427,7 @@ array (
   ),
   267 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/active',
@@ -2436,7 +2436,7 @@ array (
   ),
   268 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/allowed_methods',
@@ -2445,7 +2445,7 @@ array (
   ),
   269 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/container',
@@ -2454,7 +2454,7 @@ array (
   ),
   270 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/debug',
@@ -2463,7 +2463,7 @@ array (
   ),
   271 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/dest_type',
@@ -2472,7 +2472,7 @@ array (
   ),
   272 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/free_method',
@@ -2481,7 +2481,7 @@ array (
   ),
   273 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/free_shipping_enable',
@@ -2490,7 +2490,7 @@ array (
   ),
   274 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/free_shipping_subtotal',
@@ -2499,7 +2499,7 @@ array (
   ),
   275 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/gateway_url',
@@ -2508,7 +2508,7 @@ array (
   ),
   276 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/gateway_xml_url',
@@ -2517,7 +2517,7 @@ array (
   ),
   277 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/handling_action',
@@ -2526,7 +2526,7 @@ array (
   ),
   278 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/handling_fee',
@@ -2535,7 +2535,7 @@ array (
   ),
   279 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/handling_type',
@@ -2544,7 +2544,7 @@ array (
   ),
   280 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/max_package_weight',
@@ -2553,7 +2553,7 @@ array (
   ),
   281 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/min_package_weight',
@@ -2562,7 +2562,7 @@ array (
   ),
   282 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/mode_xml',
@@ -2571,7 +2571,7 @@ array (
   ),
   283 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/negotiated_active',
@@ -2580,7 +2580,7 @@ array (
   ),
   284 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/origin_shipment',
@@ -2589,7 +2589,7 @@ array (
   ),
   285 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/password',
@@ -2598,7 +2598,7 @@ array (
   ),
   286 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/pickup',
@@ -2607,7 +2607,7 @@ array (
   ),
   287 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/sallowspecific',
@@ -2616,7 +2616,7 @@ array (
   ),
   288 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/shipment_requesttype',
@@ -2625,7 +2625,7 @@ array (
   ),
   289 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/shipper_number',
@@ -2634,7 +2634,7 @@ array (
   ),
   290 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/showmethod',
@@ -2643,7 +2643,7 @@ array (
   ),
   291 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/sort_order',
@@ -2652,7 +2652,7 @@ array (
   ),
   292 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/specificcountry',
@@ -2661,7 +2661,7 @@ array (
   ),
   293 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/specificerrmsg',
@@ -2670,7 +2670,7 @@ array (
   ),
   294 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/title',
@@ -2679,7 +2679,7 @@ array (
   ),
   295 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/tracking_xml_url',
@@ -2688,7 +2688,7 @@ array (
   ),
   296 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/type',
@@ -2697,7 +2697,7 @@ array (
   ),
   297 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/unit_of_measure',
@@ -2706,7 +2706,7 @@ array (
   ),
   298 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/ups/username',
@@ -2715,7 +2715,7 @@ array (
   ),
   299 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/active',
@@ -2724,7 +2724,7 @@ array (
   ),
   300 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/allowed_methods',
@@ -2733,7 +2733,7 @@ array (
   ),
   301 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/container',
@@ -2742,7 +2742,7 @@ array (
   ),
   302 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/debug',
@@ -2751,7 +2751,7 @@ array (
   ),
   303 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/free_method',
@@ -2760,7 +2760,7 @@ array (
   ),
   304 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/free_shipping_enable',
@@ -2769,7 +2769,7 @@ array (
   ),
   305 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/free_shipping_subtotal',
@@ -2778,7 +2778,7 @@ array (
   ),
   306 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/gateway_secure_url',
@@ -2787,7 +2787,7 @@ array (
   ),
   307 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/gateway_url',
@@ -2796,7 +2796,7 @@ array (
   ),
   308 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/handling_action',
@@ -2805,7 +2805,7 @@ array (
   ),
   309 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/handling_fee',
@@ -2814,7 +2814,7 @@ array (
   ),
   310 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/handling_type',
@@ -2823,7 +2823,7 @@ array (
   ),
   311 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/machinable',
@@ -2832,7 +2832,7 @@ array (
   ),
   312 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/max_package_weight',
@@ -2841,7 +2841,7 @@ array (
   ),
   313 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/mode',
@@ -2850,7 +2850,7 @@ array (
   ),
   314 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/password',
@@ -2859,7 +2859,7 @@ array (
   ),
   315 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/sallowspecific',
@@ -2868,7 +2868,7 @@ array (
   ),
   316 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/shipment_requesttype',
@@ -2877,7 +2877,7 @@ array (
   ),
   317 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/showmethod',
@@ -2886,7 +2886,7 @@ array (
   ),
   318 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/size',
@@ -2895,7 +2895,7 @@ array (
   ),
   319 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/sort_order',
@@ -2904,7 +2904,7 @@ array (
   ),
   320 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/specificcountry',
@@ -2913,7 +2913,7 @@ array (
   ),
   321 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/specificerrmsg',
@@ -2922,7 +2922,7 @@ array (
   ),
   322 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/title',
@@ -2931,7 +2931,7 @@ array (
   ),
   323 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'carriers/usps/userid',
@@ -2940,7 +2940,7 @@ array (
   ),
   324 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/category/root_id',
@@ -2949,7 +2949,7 @@ array (
   ),
   325 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/cedemo/client_id',
@@ -2958,7 +2958,7 @@ array (
   ),
   326 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/cedemo/display_as_lightbox',
@@ -2967,7 +2967,7 @@ array (
   ),
   327 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/cedemo/enabled',
@@ -2976,7 +2976,7 @@ array (
   ),
   328 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/cedemo/video_autoplay',
@@ -2985,7 +2985,7 @@ array (
   ),
   329 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/cedemo/video_bgcolor',
@@ -2994,7 +2994,7 @@ array (
   ),
   330 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/cedemo/video_height',
@@ -3003,7 +3003,7 @@ array (
   ),
   331 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/cedemo/video_width',
@@ -3012,7 +3012,7 @@ array (
   ),
   332 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/custom_options/date_fields_order',
@@ -3021,7 +3021,7 @@ array (
   ),
   333 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/custom_options/time_format',
@@ -3030,7 +3030,7 @@ array (
   ),
   334 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/custom_options/use_calendar',
@@ -3039,7 +3039,7 @@ array (
   ),
   335 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/custom_options/year_range',
@@ -3048,7 +3048,7 @@ array (
   ),
   336 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/downloadable/content_disposition',
@@ -3057,7 +3057,7 @@ array (
   ),
   337 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/downloadable/disable_guest_checkout',
@@ -3066,7 +3066,7 @@ array (
   ),
   338 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/downloadable/downloads_number',
@@ -3075,7 +3075,7 @@ array (
   ),
   339 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/downloadable/links_target_new_window',
@@ -3084,7 +3084,7 @@ array (
   ),
   340 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/downloadable/links_title',
@@ -3093,7 +3093,7 @@ array (
   ),
   341 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/downloadable/order_item_status',
@@ -3102,7 +3102,7 @@ array (
   ),
   342 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/downloadable/samples_title',
@@ -3111,7 +3111,7 @@ array (
   ),
   343 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/downloadable/shareable',
@@ -3120,7 +3120,7 @@ array (
   ),
   344 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/default_sort_by',
@@ -3129,7 +3129,7 @@ array (
   ),
   345 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/flat_catalog_category',
@@ -3138,7 +3138,7 @@ array (
   ),
   346 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/flat_catalog_product',
@@ -3147,7 +3147,7 @@ array (
   ),
   347 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/grid_per_page',
@@ -3156,7 +3156,7 @@ array (
   ),
   348 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/grid_per_page_values',
@@ -3165,7 +3165,7 @@ array (
   ),
   349 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/list_allow_all',
@@ -3174,7 +3174,7 @@ array (
   ),
   350 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/list_mode',
@@ -3183,7 +3183,7 @@ array (
   ),
   351 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/list_per_page',
@@ -3192,7 +3192,7 @@ array (
   ),
   352 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/list_per_page_values',
@@ -3201,7 +3201,7 @@ array (
   ),
   353 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/frontend/parse_url_directives',
@@ -3210,7 +3210,7 @@ array (
   ),
   354 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/display_media_vertical',
@@ -3219,7 +3219,7 @@ array (
   ),
   355 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/display_review_in_column',
@@ -3228,7 +3228,7 @@ array (
   ),
   356 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_category_pills',
@@ -3237,7 +3237,7 @@ array (
   ),
   357 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_play_online',
@@ -3246,7 +3246,7 @@ array (
   ),
   358 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_price_box_button',
@@ -3255,7 +3255,7 @@ array (
   ),
   359 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_price_description',
@@ -3264,7 +3264,7 @@ array (
   ),
   360 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_product_attr',
@@ -3273,7 +3273,7 @@ array (
   ),
   361 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_product_carousel',
@@ -3282,7 +3282,7 @@ array (
   ),
   362 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_secondary_menu',
@@ -3291,7 +3291,7 @@ array (
   ),
   363 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_social_share',
@@ -3300,7 +3300,7 @@ array (
   ),
   364 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_try',
@@ -3309,7 +3309,7 @@ array (
   ),
   365 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/generic_product_page/show_wishlist',
@@ -3318,7 +3318,7 @@ array (
   ),
   366 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/layered_navigation/display_product_count',
@@ -3327,7 +3327,7 @@ array (
   ),
   367 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/layered_navigation/price_range_calculation',
@@ -3336,7 +3336,7 @@ array (
   ),
   368 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/navigation/max_depth',
@@ -3345,61 +3345,61 @@ array (
   ),
   369 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/placeholder/hybridstore_carousel_image_placeholder',
-      'value' => 'defaultscope/image.jpg',
+      'value' => 'default/image.jpg',
     ),
   ),
   370 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/placeholder/image_3d_placeholder',
-      'value' => 'defaultscope/placeholder_baseimage_3.png',
+      'value' => 'default/placeholder_baseimage_3.png',
     ),
   ),
   371 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/placeholder/image_carousel_placeholder',
-      'value' => 'defaultscope/placeholder_carousel_1.jpg',
+      'value' => 'default/placeholder_carousel_1.jpg',
     ),
   ),
   372 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/placeholder/image_placeholder',
-      'value' => 'defaultscope/placeholder_baseimage_2.png',
+      'value' => 'default/placeholder_baseimage_2.png',
     ),
   ),
   373 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/placeholder/small_image_placeholder',
-      'value' => 'defaultscope/placeholder_smallimage_2.png',
+      'value' => 'default/placeholder_smallimage_2.png',
     ),
   ),
   374 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/placeholder/thumbnail_placeholder',
-      'value' => 'defaultscope/placeholder_smallimage_3.png',
+      'value' => 'default/placeholder_smallimage_3.png',
     ),
   ),
   375 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/price/scope',
@@ -3408,7 +3408,7 @@ array (
   ),
   376 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/price/use_default_display_currency',
@@ -3417,7 +3417,7 @@ array (
   ),
   377 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert/allow_price',
@@ -3426,7 +3426,7 @@ array (
   ),
   378 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert/allow_stock',
@@ -3435,7 +3435,7 @@ array (
   ),
   379 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert/email_identity',
@@ -3444,7 +3444,7 @@ array (
   ),
   380 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert/email_price_template',
@@ -3453,7 +3453,7 @@ array (
   ),
   381 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert/email_stock_template',
@@ -3462,7 +3462,7 @@ array (
   ),
   382 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert_cron/error_email',
@@ -3471,7 +3471,7 @@ array (
   ),
   383 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert_cron/error_email_identity',
@@ -3480,7 +3480,7 @@ array (
   ),
   384 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert_cron/error_email_template',
@@ -3489,7 +3489,7 @@ array (
   ),
   385 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert_cron/frequency',
@@ -3498,7 +3498,7 @@ array (
   ),
   386 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/productalert_cron/time',
@@ -3507,7 +3507,7 @@ array (
   ),
   387 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/add_to_cart_button_cls',
@@ -3516,7 +3516,7 @@ array (
   ),
   388 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/class_name',
@@ -3525,7 +3525,7 @@ array (
   ),
   389 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/image_height',
@@ -3534,7 +3534,7 @@ array (
   ),
   390 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/image_width',
@@ -3543,7 +3543,7 @@ array (
   ),
   391 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/render_os_as',
@@ -3552,7 +3552,7 @@ array (
   ),
   392 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_categories',
@@ -3561,7 +3561,7 @@ array (
   ),
   393 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_description',
@@ -3570,7 +3570,7 @@ array (
   ),
   394 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_language',
@@ -3579,7 +3579,7 @@ array (
   ),
   395 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_os',
@@ -3588,7 +3588,7 @@ array (
   ),
   396 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_play_online',
@@ -3597,7 +3597,7 @@ array (
   ),
   397 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_publisher',
@@ -3606,7 +3606,7 @@ array (
   ),
   398 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_rating',
@@ -3615,7 +3615,7 @@ array (
   ),
   399 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_release_date',
@@ -3624,7 +3624,7 @@ array (
   ),
   400 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_reviews_count',
@@ -3633,7 +3633,7 @@ array (
   ),
   401 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/product_list/show_try_now',
@@ -3642,7 +3642,7 @@ array (
   ),
   402 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/recently_products/compared_count',
@@ -3651,7 +3651,7 @@ array (
   ),
   403 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/recently_products/scope',
@@ -3660,7 +3660,7 @@ array (
   ),
   404 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/recently_products/viewed_count',
@@ -3669,7 +3669,7 @@ array (
   ),
   405 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/review/allow_guest',
@@ -3678,7 +3678,7 @@ array (
   ),
   406 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/review/antispam',
@@ -3687,7 +3687,7 @@ array (
   ),
   407 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/review/email_identity',
@@ -3696,7 +3696,7 @@ array (
   ),
   408 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/review/email_template',
@@ -3705,7 +3705,7 @@ array (
   ),
   409 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/review/email_to',
@@ -3714,7 +3714,7 @@ array (
   ),
   410 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/review/need_notify',
@@ -3723,7 +3723,7 @@ array (
   ),
   411 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/review/need_send',
@@ -3732,7 +3732,7 @@ array (
   ),
   412 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/search/max_query_length',
@@ -3741,7 +3741,7 @@ array (
   ),
   413 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/search/max_query_words',
@@ -3750,7 +3750,7 @@ array (
   ),
   414 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/search/min_query_length',
@@ -3759,7 +3759,7 @@ array (
   ),
   415 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/search/search_type',
@@ -3768,7 +3768,7 @@ array (
   ),
   416 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/search/use_layered_navigation_count',
@@ -3777,7 +3777,7 @@ array (
   ),
   417 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/category_canonical_tag',
@@ -3786,7 +3786,7 @@ array (
   ),
   418 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/category_url_suffix',
@@ -3795,7 +3795,7 @@ array (
   ),
   419 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/product_canonical_tag',
@@ -3804,7 +3804,7 @@ array (
   ),
   420 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/product_url_suffix',
@@ -3813,7 +3813,7 @@ array (
   ),
   421 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/product_use_categories',
@@ -3822,7 +3822,7 @@ array (
   ),
   422 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/save_rewrites_history',
@@ -3831,7 +3831,7 @@ array (
   ),
   423 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/search_terms',
@@ -3840,7 +3840,7 @@ array (
   ),
   424 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/site_map',
@@ -3849,7 +3849,7 @@ array (
   ),
   425 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/seo/title_separator',
@@ -3858,7 +3858,7 @@ array (
   ),
   426 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/sitemap/lines_perpage',
@@ -3867,7 +3867,7 @@ array (
   ),
   427 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/sitemap/tree_mode',
@@ -3876,7 +3876,7 @@ array (
   ),
   428 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/video_file/display_as_lightbox',
@@ -3885,7 +3885,7 @@ array (
   ),
   429 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/video_file/enabled',
@@ -3894,7 +3894,7 @@ array (
   ),
   430 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/video_file/force_flash_fallback',
@@ -3903,7 +3903,7 @@ array (
   ),
   431 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/video_file/video_height',
@@ -3912,7 +3912,7 @@ array (
   ),
   432 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'catalog/video_file/video_width',
@@ -3921,7 +3921,7 @@ array (
   ),
   433 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/item_options/auto_return',
@@ -3930,7 +3930,7 @@ array (
   ),
   434 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/item_options/backorders',
@@ -3939,7 +3939,7 @@ array (
   ),
   435 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/item_options/enable_qty_increments',
@@ -3948,7 +3948,7 @@ array (
   ),
   436 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/item_options/manage_stock',
@@ -3957,7 +3957,7 @@ array (
   ),
   437 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/item_options/max_sale_qty',
@@ -3966,7 +3966,7 @@ array (
   ),
   438 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/item_options/min_qty',
@@ -3975,7 +3975,7 @@ array (
   ),
   439 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/item_options/min_sale_qty',
@@ -3984,7 +3984,7 @@ array (
   ),
   440 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/item_options/notify_stock_qty',
@@ -3993,7 +3993,7 @@ array (
   ),
   441 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/options/can_back_in_stock',
@@ -4002,7 +4002,7 @@ array (
   ),
   442 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/options/can_subtract',
@@ -4011,7 +4011,7 @@ array (
   ),
   443 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/options/show_out_of_stock',
@@ -4020,7 +4020,7 @@ array (
   ),
   444 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cataloginventory/options/stock_threshold_qty',
@@ -4029,7 +4029,7 @@ array (
   ),
   445 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/cart/configurable_product_image',
@@ -4038,7 +4038,7 @@ array (
   ),
   446 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/cart/delete_quote_after',
@@ -4047,7 +4047,7 @@ array (
   ),
   447 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/cart/grouped_product_image',
@@ -4056,7 +4056,7 @@ array (
   ),
   448 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/cart/redirect_to_cart',
@@ -4065,7 +4065,7 @@ array (
   ),
   449 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/cart_link/use_qty',
@@ -4074,7 +4074,7 @@ array (
   ),
   450 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/options/enable_agreements',
@@ -4083,7 +4083,7 @@ array (
   ),
   451 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/options/guest_checkout',
@@ -4092,7 +4092,7 @@ array (
   ),
   452 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/options/onepage_checkout_enabled',
@@ -4101,7 +4101,7 @@ array (
   ),
   453 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/payment_failed/copy_method',
@@ -4110,7 +4110,7 @@ array (
   ),
   454 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/payment_failed/copy_to',
@@ -4119,7 +4119,7 @@ array (
   ),
   455 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/payment_failed/identity',
@@ -4128,7 +4128,7 @@ array (
   ),
   456 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/payment_failed/reciever',
@@ -4137,7 +4137,7 @@ array (
   ),
   457 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/payment_failed/template',
@@ -4146,7 +4146,7 @@ array (
   ),
   458 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/sidebar/count',
@@ -4155,7 +4155,7 @@ array (
   ),
   459 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'checkout/sidebar/display',
@@ -4164,7 +4164,7 @@ array (
   ),
   460 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cms/clever/permissions_enabled',
@@ -4173,7 +4173,7 @@ array (
   ),
   461 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cms/clever/save_rewrites_history',
@@ -4182,7 +4182,7 @@ array (
   ),
   462 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cms/wysiwyg/enabled',
@@ -4191,7 +4191,7 @@ array (
   ),
   463 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'cms/wysiwyg/use_static_urls_in_catalog',
@@ -4200,7 +4200,7 @@ array (
   ),
   464 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'configurator/catalog_indexer/websites',
@@ -4209,7 +4209,7 @@ array (
   ),
   465 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'crontab/jobs/catalog_product_alert/run/model',
@@ -4218,7 +4218,7 @@ array (
   ),
   466 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'crontab/jobs/catalog_product_alert/schedule/cron_expr',
@@ -4227,7 +4227,7 @@ array (
   ),
   467 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'crontab/jobs/currency_rates_update/schedule/cron_expr',
@@ -4236,7 +4236,7 @@ array (
   ),
   468 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'crontab/jobs/log_clean/run/model',
@@ -4245,7 +4245,7 @@ array (
   ),
   469 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'crontab/jobs/log_clean/schedule/cron_expr',
@@ -4254,7 +4254,7 @@ array (
   ),
   470 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/import/enabled',
@@ -4263,7 +4263,7 @@ array (
   ),
   471 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/import/error_email',
@@ -4272,7 +4272,7 @@ array (
   ),
   472 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/import/error_email_identity',
@@ -4281,7 +4281,7 @@ array (
   ),
   473 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/import/error_email_template',
@@ -4290,7 +4290,7 @@ array (
   ),
   474 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/import/frequency',
@@ -4299,7 +4299,7 @@ array (
   ),
   475 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/import/service',
@@ -4308,7 +4308,7 @@ array (
   ),
   476 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/import/time',
@@ -4317,7 +4317,7 @@ array (
   ),
   477 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/options/allow',
@@ -4326,7 +4326,7 @@ array (
   ),
   478 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/options/base',
@@ -4335,7 +4335,7 @@ array (
   ),
   479 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/options/default',
@@ -4344,7 +4344,7 @@ array (
   ),
   480 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'currency/webservicex/timeout',
@@ -4353,7 +4353,7 @@ array (
   ),
   481 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/account_share/scope',
@@ -4362,7 +4362,7 @@ array (
   ),
   482 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/dob_show',
@@ -4371,7 +4371,7 @@ array (
   ),
   483 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/gender_show',
@@ -4380,7 +4380,7 @@ array (
   ),
   484 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/middlename_show',
@@ -4389,7 +4389,7 @@ array (
   ),
   485 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/prefix_options',
@@ -4398,7 +4398,7 @@ array (
   ),
   486 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/prefix_show',
@@ -4407,7 +4407,7 @@ array (
   ),
   487 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/street_lines',
@@ -4416,7 +4416,7 @@ array (
   ),
   488 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/suffix_options',
@@ -4425,7 +4425,7 @@ array (
   ),
   489 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/suffix_show',
@@ -4434,7 +4434,7 @@ array (
   ),
   490 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address/taxvat_show',
@@ -4443,7 +4443,7 @@ array (
   ),
   491 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address_templates/html',
@@ -4461,7 +4461,7 @@ array (
   ),
   492 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address_templates/js_template',
@@ -4470,7 +4470,7 @@ array (
   ),
   493 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address_templates/oneline',
@@ -4479,7 +4479,7 @@ array (
   ),
   494 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address_templates/pdf',
@@ -4499,7 +4499,7 @@ array (
   ),
   495 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/address_templates/text',
@@ -4518,7 +4518,7 @@ T: {{var telephone}}
   ),
   496 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/confirm',
@@ -4527,7 +4527,7 @@ T: {{var telephone}}
   ),
   497 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/default_group',
@@ -4536,7 +4536,7 @@ T: {{var telephone}}
   ),
   498 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/default_group_vatid',
@@ -4545,7 +4545,7 @@ T: {{var telephone}}
   ),
   499 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/email_confirmation_template',
@@ -4554,7 +4554,7 @@ T: {{var telephone}}
   ),
   500 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/email_confirmed_template',
@@ -4563,7 +4563,7 @@ T: {{var telephone}}
   ),
   501 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/email_domain',
@@ -4572,7 +4572,7 @@ T: {{var telephone}}
   ),
   502 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/email_identity',
@@ -4581,7 +4581,7 @@ T: {{var telephone}}
   ),
   503 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/email_template',
@@ -4590,7 +4590,7 @@ T: {{var telephone}}
   ),
   504 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/create_account/generate_human_friendly_id',
@@ -4599,7 +4599,7 @@ T: {{var telephone}}
   ),
   505 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/online_customers/online_minutes_interval',
@@ -4608,7 +4608,7 @@ T: {{var telephone}}
   ),
   506 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/password/forgot_email_identity',
@@ -4617,7 +4617,7 @@ T: {{var telephone}}
   ),
   507 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/password/forgot_email_template',
@@ -4626,7 +4626,7 @@ T: {{var telephone}}
   ),
   508 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/password/remind_email_template',
@@ -4635,7 +4635,7 @@ T: {{var telephone}}
   ),
   509 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/password/reset_link_expiration_period',
@@ -4644,7 +4644,7 @@ T: {{var telephone}}
   ),
   510 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'customer/startup/redirect_dashboard',
@@ -4653,7 +4653,7 @@ T: {{var telephone}}
   ),
   511 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/admin/theme',
@@ -4662,7 +4662,7 @@ T: {{var telephone}}
   ),
   512 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/background_group/background_absolute',
@@ -4671,7 +4671,7 @@ T: {{var telephone}}
   ),
   513 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/background_group/background_attachment',
@@ -4680,7 +4680,7 @@ T: {{var telephone}}
   ),
   514 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/background_group/background_element',
@@ -4689,7 +4689,7 @@ T: {{var telephone}}
   ),
   515 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/background_group/background_element_list',
@@ -4698,7 +4698,7 @@ T: {{var telephone}}
   ),
   516 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/background_group/background_field',
@@ -4707,7 +4707,7 @@ T: {{var telephone}}
   ),
   517 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/background_group/background_image_field',
@@ -4716,7 +4716,7 @@ T: {{var telephone}}
   ),
   518 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/background_group/background_position',
@@ -4725,7 +4725,7 @@ T: {{var telephone}}
   ),
   519 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/footer/absolute_footer',
@@ -4734,7 +4734,7 @@ T: {{var telephone}}
   ),
   520 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/footer/copyright',
@@ -4743,7 +4743,7 @@ T: {{var telephone}}
   ),
   521 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/default_description',
@@ -4752,7 +4752,7 @@ T: {{var telephone}}
   ),
   522 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/default_keywords',
@@ -4761,7 +4761,7 @@ T: {{var telephone}}
   ),
   523 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/default_robots',
@@ -4770,7 +4770,7 @@ T: {{var telephone}}
   ),
   524 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/default_title',
@@ -4779,7 +4779,7 @@ T: {{var telephone}}
   ),
   525 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/demonotice',
@@ -4788,7 +4788,7 @@ T: {{var telephone}}
   ),
   526 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/includes',
@@ -4797,7 +4797,7 @@ T: {{var telephone}}
   ),
   527 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/shortcut_icon',
@@ -4806,7 +4806,7 @@ T: {{var telephone}}
   ),
   528 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/title_prefix',
@@ -4815,7 +4815,7 @@ T: {{var telephone}}
   ),
   529 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/head/title_suffix',
@@ -4824,7 +4824,7 @@ T: {{var telephone}}
   ),
   530 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/header/logo_alt',
@@ -4833,7 +4833,7 @@ T: {{var telephone}}
   ),
   531 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/header/logo_src',
@@ -4842,7 +4842,7 @@ T: {{var telephone}}
   ),
   532 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/header/welcome',
@@ -4851,7 +4851,7 @@ T: {{var telephone}}
   ),
   533 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/package/name',
@@ -4860,7 +4860,7 @@ T: {{var telephone}}
   ),
   534 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/package/ua_regexp',
@@ -4869,7 +4869,7 @@ T: {{var telephone}}
   ),
   535 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/pagination/anchor_text_for_next',
@@ -4878,7 +4878,7 @@ T: {{var telephone}}
   ),
   536 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/pagination/anchor_text_for_previous',
@@ -4887,7 +4887,7 @@ T: {{var telephone}}
   ),
   537 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/pagination/pagination_frame',
@@ -4896,7 +4896,7 @@ T: {{var telephone}}
   ),
   538 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/pagination/pagination_frame_skip',
@@ -4905,7 +4905,7 @@ T: {{var telephone}}
   ),
   539 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/default',
@@ -4914,7 +4914,7 @@ T: {{var telephone}}
   ),
   540 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/default_ua_regexp',
@@ -4923,7 +4923,7 @@ T: {{var telephone}}
   ),
   541 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/layout',
@@ -4932,7 +4932,7 @@ T: {{var telephone}}
   ),
   542 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/layout_ua_regexp',
@@ -4941,7 +4941,7 @@ T: {{var telephone}}
   ),
   543 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/locale',
@@ -4950,7 +4950,7 @@ T: {{var telephone}}
   ),
   544 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/skin',
@@ -4959,7 +4959,7 @@ T: {{var telephone}}
   ),
   545 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/skin_ua_regexp',
@@ -4968,7 +4968,7 @@ T: {{var telephone}}
   ),
   546 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/template',
@@ -4977,7 +4977,7 @@ T: {{var telephone}}
   ),
   547 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/theme/template_ua_regexp',
@@ -4986,7 +4986,7 @@ T: {{var telephone}}
   ),
   548 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/hybridstore_carousel_image_imageOpacity',
@@ -4995,7 +4995,7 @@ T: {{var telephone}}
   ),
   549 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/hybridstore_carousel_image_position',
@@ -5004,7 +5004,7 @@ T: {{var telephone}}
   ),
   550 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/hybridstore_carousel_image_size',
@@ -5013,7 +5013,7 @@ T: {{var telephone}}
   ),
   551 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_3d_imageOpacity',
@@ -5022,7 +5022,7 @@ T: {{var telephone}}
   ),
   552 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_3d_position',
@@ -5031,7 +5031,7 @@ T: {{var telephone}}
   ),
   553 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_3d_size',
@@ -5040,7 +5040,7 @@ T: {{var telephone}}
   ),
   554 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_carousel_imageOpacity',
@@ -5049,7 +5049,7 @@ T: {{var telephone}}
   ),
   555 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_carousel_position',
@@ -5058,7 +5058,7 @@ T: {{var telephone}}
   ),
   556 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_carousel_size',
@@ -5067,7 +5067,7 @@ T: {{var telephone}}
   ),
   557 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_imageOpacity',
@@ -5076,7 +5076,7 @@ T: {{var telephone}}
   ),
   558 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_position',
@@ -5085,7 +5085,7 @@ T: {{var telephone}}
   ),
   559 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/image_size',
@@ -5094,7 +5094,7 @@ T: {{var telephone}}
   ),
   560 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/slider_background_imageOpacity',
@@ -5103,7 +5103,7 @@ T: {{var telephone}}
   ),
   561 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/slider_background_position',
@@ -5112,7 +5112,7 @@ T: {{var telephone}}
   ),
   562 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/slider_background_size',
@@ -5121,7 +5121,7 @@ T: {{var telephone}}
   ),
   563 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/slider_logo_imageOpacity',
@@ -5130,7 +5130,7 @@ T: {{var telephone}}
   ),
   564 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/slider_logo_position',
@@ -5139,7 +5139,7 @@ T: {{var telephone}}
   ),
   565 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/slider_logo_size',
@@ -5148,7 +5148,7 @@ T: {{var telephone}}
   ),
   566 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/small_image_imageOpacity',
@@ -5157,7 +5157,7 @@ T: {{var telephone}}
   ),
   567 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/small_image_position',
@@ -5166,7 +5166,7 @@ T: {{var telephone}}
   ),
   568 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/small_image_size',
@@ -5175,7 +5175,7 @@ T: {{var telephone}}
   ),
   569 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/thumbnail_imageOpacity',
@@ -5184,7 +5184,7 @@ T: {{var telephone}}
   ),
   570 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/thumbnail_position',
@@ -5193,7 +5193,7 @@ T: {{var telephone}}
   ),
   571 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'design/watermark/thumbnail_size',
@@ -5202,7 +5202,7 @@ T: {{var telephone}}
   ),
   572 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/aoe_templatehints/templateHintRenderer',
@@ -5211,7 +5211,7 @@ T: {{var telephone}}
   ),
   573 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/css/merge_css_files',
@@ -5220,7 +5220,7 @@ T: {{var telephone}}
   ),
   574 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/debug/hideLinesFasterThan',
@@ -5229,7 +5229,7 @@ T: {{var telephone}}
   ),
   575 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/debug/profiler',
@@ -5238,7 +5238,7 @@ T: {{var telephone}}
   ),
   576 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/debug/showDisabledMessage',
@@ -5247,7 +5247,7 @@ T: {{var telephone}}
   ),
   577 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/html/minify_html_output',
@@ -5256,7 +5256,7 @@ T: {{var telephone}}
   ),
   578 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/js/log_is_active',
@@ -5265,7 +5265,7 @@ T: {{var telephone}}
   ),
   579 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/js/merge_files',
@@ -5274,7 +5274,7 @@ T: {{var telephone}}
   ),
   580 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/log/active',
@@ -5283,7 +5283,7 @@ T: {{var telephone}}
   ),
   581 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/log/directpayment_file',
@@ -5292,7 +5292,7 @@ T: {{var telephone}}
   ),
   582 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/log/exception_file',
@@ -5301,7 +5301,7 @@ T: {{var telephone}}
   ),
   583 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/log/file',
@@ -5310,7 +5310,7 @@ T: {{var telephone}}
   ),
   584 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/log/fulfillment_file',
@@ -5319,7 +5319,7 @@ T: {{var telephone}}
   ),
   585 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/log/inventory_file',
@@ -5328,7 +5328,7 @@ T: {{var telephone}}
   ),
   586 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/log/lesscss_file',
@@ -5337,7 +5337,7 @@ T: {{var telephone}}
   ),
   587 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/log/snh_file',
@@ -5346,7 +5346,7 @@ T: {{var telephone}}
   ),
   588 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/option/active',
@@ -5355,7 +5355,7 @@ T: {{var telephone}}
   ),
   589 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/option/code',
@@ -5364,7 +5364,7 @@ T: {{var telephone}}
   ),
   590 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/restrict/allow_ips',
@@ -5373,7 +5373,7 @@ T: {{var telephone}}
   ),
   591 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/template/allow_symlink',
@@ -5382,7 +5382,7 @@ T: {{var telephone}}
   ),
   592 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/translate_inline/active',
@@ -5391,7 +5391,7 @@ T: {{var telephone}}
   ),
   593 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'dev/translate_inline/active_admin',
@@ -5400,7 +5400,7 @@ T: {{var telephone}}
   ),
   594 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'emvcore/emv_account/account',
@@ -5409,7 +5409,7 @@ T: {{var telephone}}
   ),
   595 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'emvcore/emv_services/notification',
@@ -5418,7 +5418,7 @@ T: {{var telephone}}
   ),
   596 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'emvcore/emv_services/transactional',
@@ -5427,7 +5427,7 @@ T: {{var telephone}}
   ),
   597 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/columns/showcolumns',
@@ -5436,7 +5436,7 @@ T: {{var telephone}}
   ),
   598 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/columns/truncatelongtextafter',
@@ -5445,7 +5445,7 @@ T: {{var telephone}}
   ),
   599 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/defaults/dir',
@@ -5454,7 +5454,7 @@ T: {{var telephone}}
   ),
   600 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/defaults/limit',
@@ -5463,7 +5463,7 @@ T: {{var telephone}}
   ),
   601 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/defaults/page',
@@ -5472,7 +5472,7 @@ T: {{var telephone}}
   ),
   602 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/defaults/sort',
@@ -5481,7 +5481,7 @@ T: {{var telephone}}
   ),
   603 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/images/height',
@@ -5490,7 +5490,7 @@ T: {{var telephone}}
   ),
   604 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/images/showbydefault',
@@ -5499,7 +5499,7 @@ T: {{var telephone}}
   ),
   605 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/images/showurl',
@@ -5508,7 +5508,7 @@ T: {{var telephone}}
   ),
   606 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'enhancedgrid/images/width',
@@ -5517,7 +5517,7 @@ T: {{var telephone}}
   ),
   607 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'eptica/settings/bcc',
@@ -5526,7 +5526,7 @@ T: {{var telephone}}
   ),
   608 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'eptica/settings/header_image',
@@ -5535,7 +5535,7 @@ T: {{var telephone}}
   ),
   609 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityadmin/allow',
@@ -5544,7 +5544,7 @@ T: {{var telephone}}
   ),
   610 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityadmin/block',
@@ -5553,7 +5553,7 @@ T: {{var telephone}}
   ),
   611 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityadmin/email_always',
@@ -5562,7 +5562,7 @@ T: {{var telephone}}
   ),
   612 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityadmin/email_event',
@@ -5571,7 +5571,7 @@ T: {{var telephone}}
   ),
   613 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityadmin/email_identity',
@@ -5580,7 +5580,7 @@ T: {{var telephone}}
   ),
   614 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityadmin/email_template',
@@ -5589,7 +5589,7 @@ T: {{var telephone}}
   ),
   615 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityadmin/redirect_blank',
@@ -5598,7 +5598,7 @@ T: {{var telephone}}
   ),
   616 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityadmin/redirect_page',
@@ -5607,7 +5607,7 @@ T: {{var telephone}}
   ),
   617 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityfront/allow',
@@ -5616,7 +5616,7 @@ T: {{var telephone}}
   ),
   618 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityfront/block',
@@ -5625,7 +5625,7 @@ T: {{var telephone}}
   ),
   619 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityfront/email_always',
@@ -5634,7 +5634,7 @@ T: {{var telephone}}
   ),
   620 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityfront/email_event',
@@ -5643,7 +5643,7 @@ T: {{var telephone}}
   ),
   621 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityfront/email_identity',
@@ -5652,7 +5652,7 @@ T: {{var telephone}}
   ),
   622 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityfront/email_template',
@@ -5661,7 +5661,7 @@ T: {{var telephone}}
   ),
   623 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityfront/redirect_blank',
@@ -5670,7 +5670,7 @@ T: {{var telephone}}
   ),
   624 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecurityfront/redirect_page',
@@ -5679,7 +5679,7 @@ T: {{var telephone}}
   ),
   625 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecuritymaintetance/enabled',
@@ -5688,7 +5688,7 @@ T: {{var telephone}}
   ),
   626 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecuritymaintetance/except',
@@ -5697,7 +5697,7 @@ T: {{var telephone}}
   ),
   627 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecuritymaintetance/message',
@@ -5743,7 +5743,7 @@ T: {{var telephone}}
   ),
   628 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'etipsecurity/ipsecuritymaintetance/remindermessage',
@@ -5752,7 +5752,7 @@ T: {{var telephone}}
   ),
   629 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/content/show_custom',
@@ -5761,7 +5761,7 @@ T: {{var telephone}}
   ),
   630 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/content/show_in_checkout',
@@ -5770,7 +5770,7 @@ T: {{var telephone}}
   ),
   631 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/content/show_in_login',
@@ -5779,7 +5779,7 @@ T: {{var telephone}}
   ),
   632 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/content/show_widget',
@@ -5788,7 +5788,7 @@ T: {{var telephone}}
   ),
   633 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/create_account/email_identity',
@@ -5797,7 +5797,7 @@ T: {{var telephone}}
   ),
   634 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/create_account/email_template',
@@ -5806,7 +5806,7 @@ T: {{var telephone}}
   ),
   635 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/create_account/enable_notify',
@@ -5815,7 +5815,7 @@ T: {{var telephone}}
   ),
   636 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/general/app_id',
@@ -5824,7 +5824,7 @@ T: {{var telephone}}
   ),
   637 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/general/app_secret',
@@ -5833,7 +5833,7 @@ T: {{var telephone}}
   ),
   638 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/general/enable_extension',
@@ -5842,7 +5842,7 @@ T: {{var telephone}}
   ),
   639 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/general/max_rows',
@@ -5851,7 +5851,7 @@ T: {{var telephone}}
   ),
   640 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/general/orderstatus',
@@ -5860,7 +5860,7 @@ T: {{var telephone}}
   ),
   641 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/general/show_faces',
@@ -5869,7 +5869,7 @@ T: {{var telephone}}
   ),
   642 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/general/size',
@@ -5878,7 +5878,7 @@ T: {{var telephone}}
   ),
   643 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/general/title',
@@ -5887,7 +5887,7 @@ T: {{var telephone}}
   ),
   644 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/singup/singup_description',
@@ -5896,7 +5896,7 @@ T: {{var telephone}}
   ),
   645 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/singup/singup_enable_message',
@@ -5905,7 +5905,7 @@ T: {{var telephone}}
   ),
   646 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/singup/singup_image',
@@ -5914,7 +5914,7 @@ T: {{var telephone}}
   ),
   647 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/singup/singup_message',
@@ -5923,7 +5923,7 @@ T: {{var telephone}}
   ),
   648 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookconnect/singup/singup_name',
@@ -5932,7 +5932,7 @@ T: {{var telephone}}
   ),
   649 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/content/show_custom',
@@ -5941,7 +5941,7 @@ T: {{var telephone}}
   ),
   650 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/content/show_in_category',
@@ -5950,7 +5950,7 @@ T: {{var telephone}}
   ),
   651 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/content/show_in_cms',
@@ -5959,7 +5959,7 @@ T: {{var telephone}}
   ),
   652 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/content/show_in_home',
@@ -5968,7 +5968,7 @@ T: {{var telephone}}
   ),
   653 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/content/show_in_product',
@@ -5977,7 +5977,7 @@ T: {{var telephone}}
   ),
   654 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/content/show_widget',
@@ -5986,7 +5986,7 @@ T: {{var telephone}}
   ),
   655 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/action',
@@ -5995,7 +5995,7 @@ T: {{var telephone}}
   ),
   656 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/admins',
@@ -6004,7 +6004,7 @@ T: {{var telephone}}
   ),
   657 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/app_id',
@@ -6013,7 +6013,7 @@ T: {{var telephone}}
   ),
   658 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/colorscheme',
@@ -6022,7 +6022,7 @@ T: {{var telephone}}
   ),
   659 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/font',
@@ -6031,7 +6031,7 @@ T: {{var telephone}}
   ),
   660 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/height',
@@ -6040,7 +6040,7 @@ T: {{var telephone}}
   ),
   661 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/href',
@@ -6049,7 +6049,7 @@ T: {{var telephone}}
   ),
   662 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/image',
@@ -6058,7 +6058,7 @@ T: {{var telephone}}
   ),
   663 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/layout',
@@ -6067,7 +6067,7 @@ T: {{var telephone}}
   ),
   664 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/plugin_code',
@@ -6076,7 +6076,7 @@ T: {{var telephone}}
   ),
   665 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/send',
@@ -6085,7 +6085,7 @@ T: {{var telephone}}
   ),
   666 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/show_faces',
@@ -6094,7 +6094,7 @@ T: {{var telephone}}
   ),
   667 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/site_name',
@@ -6103,7 +6103,7 @@ T: {{var telephone}}
   ),
   668 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/title',
@@ -6112,7 +6112,7 @@ T: {{var telephone}}
   ),
   669 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/type',
@@ -6121,7 +6121,7 @@ T: {{var telephone}}
   ),
   670 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/url',
@@ -6130,7 +6130,7 @@ T: {{var telephone}}
   ),
   671 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'facebookilike/general/width',
@@ -6139,7 +6139,7 @@ T: {{var telephone}}
   ),
   672 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/creditmemo_settings/creditmemoformat',
@@ -6148,7 +6148,7 @@ T: {{var telephone}}
   ),
   673 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/creditmemo_settings/duplicate_id_padding_length',
@@ -6157,7 +6157,7 @@ T: {{var telephone}}
   ),
   674 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/creditmemo_settings/duplicate_separator',
@@ -6166,7 +6166,7 @@ T: {{var telephone}}
   ),
   675 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/creditmemo_settings/increment_pad_length',
@@ -6175,7 +6175,7 @@ T: {{var telephone}}
   ),
   676 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/creditmemo_settings/increment_per_store',
@@ -6184,7 +6184,7 @@ T: {{var telephone}}
   ),
   677 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/creditmemo_settings/increment_step',
@@ -6193,7 +6193,7 @@ T: {{var telephone}}
   ),
   678 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/creditmemo_settings/next_id',
@@ -6202,7 +6202,7 @@ T: {{var telephone}}
   ),
   679 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/creditmemo_settings/use_store_id_prefix',
@@ -6211,7 +6211,7 @@ T: {{var telephone}}
   ),
   680 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/invoice_settings/duplicate_id_padding_length',
@@ -6220,7 +6220,7 @@ T: {{var telephone}}
   ),
   681 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/invoice_settings/duplicate_separator',
@@ -6229,7 +6229,7 @@ T: {{var telephone}}
   ),
   682 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/invoice_settings/increment_pad_length',
@@ -6238,7 +6238,7 @@ T: {{var telephone}}
   ),
   683 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/invoice_settings/increment_per_store',
@@ -6247,7 +6247,7 @@ T: {{var telephone}}
   ),
   684 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/invoice_settings/increment_step',
@@ -6256,7 +6256,7 @@ T: {{var telephone}}
   ),
   685 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/invoice_settings/invoiceformat',
@@ -6265,7 +6265,7 @@ T: {{var telephone}}
   ),
   686 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/invoice_settings/next_id',
@@ -6274,7 +6274,7 @@ T: {{var telephone}}
   ),
   687 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/invoice_settings/use_store_id_prefix',
@@ -6283,7 +6283,7 @@ T: {{var telephone}}
   ),
   688 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/order_settings/duplicate_id_padding_length',
@@ -6292,7 +6292,7 @@ T: {{var telephone}}
   ),
   689 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/order_settings/duplicate_separator',
@@ -6301,7 +6301,7 @@ T: {{var telephone}}
   ),
   690 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/order_settings/increment_pad_length',
@@ -6310,7 +6310,7 @@ T: {{var telephone}}
   ),
   691 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/order_settings/increment_per_store',
@@ -6319,7 +6319,7 @@ T: {{var telephone}}
   ),
   692 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/order_settings/increment_step',
@@ -6328,7 +6328,7 @@ T: {{var telephone}}
   ),
   693 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/order_settings/next_id',
@@ -6337,7 +6337,7 @@ T: {{var telephone}}
   ),
   694 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/order_settings/orderformat',
@@ -6346,7 +6346,7 @@ T: {{var telephone}}
   ),
   695 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/order_settings/use_store_id_prefix',
@@ -6355,7 +6355,7 @@ T: {{var telephone}}
   ),
   696 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/activated',
@@ -6364,7 +6364,7 @@ T: {{var telephone}}
   ),
   697 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/creditmemo_increment_model_original',
@@ -6373,7 +6373,7 @@ T: {{var telephone}}
   ),
   698 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/creditmemo_increment_pad_char_original',
@@ -6382,7 +6382,7 @@ T: {{var telephone}}
   ),
   699 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/creditmemo_increment_pad_length_original',
@@ -6391,7 +6391,7 @@ T: {{var telephone}}
   ),
   700 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/creditmemo_increment_per_store_original',
@@ -6400,7 +6400,7 @@ T: {{var telephone}}
   ),
   701 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/increment_model_original',
@@ -6409,7 +6409,7 @@ T: {{var telephone}}
   ),
   702 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/increment_pad_char_original',
@@ -6418,7 +6418,7 @@ T: {{var telephone}}
   ),
   703 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/increment_pad_length_original',
@@ -6427,7 +6427,7 @@ T: {{var telephone}}
   ),
   704 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/increment_per_store_original',
@@ -6436,7 +6436,7 @@ T: {{var telephone}}
   ),
   705 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/invoice_increment_model_original',
@@ -6445,7 +6445,7 @@ T: {{var telephone}}
   ),
   706 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/invoice_increment_pad_char_original',
@@ -6454,7 +6454,7 @@ T: {{var telephone}}
   ),
   707 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/invoice_increment_pad_length_original',
@@ -6463,7 +6463,7 @@ T: {{var telephone}}
   ),
   708 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/invoice_increment_per_store_original',
@@ -6472,7 +6472,7 @@ T: {{var telephone}}
   ),
   709 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/shipment_increment_model_original',
@@ -6481,7 +6481,7 @@ T: {{var telephone}}
   ),
   710 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/shipment_increment_pad_char_original',
@@ -6490,7 +6490,7 @@ T: {{var telephone}}
   ),
   711 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/shipment_increment_pad_length_original',
@@ -6499,7 +6499,7 @@ T: {{var telephone}}
   ),
   712 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/settings/shipment_increment_per_store_original',
@@ -6508,7 +6508,7 @@ T: {{var telephone}}
   ),
   713 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/shipment_settings/duplicate_id_padding_length',
@@ -6517,7 +6517,7 @@ T: {{var telephone}}
   ),
   714 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/shipment_settings/duplicate_separator',
@@ -6526,7 +6526,7 @@ T: {{var telephone}}
   ),
   715 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/shipment_settings/increment_pad_length',
@@ -6535,7 +6535,7 @@ T: {{var telephone}}
   ),
   716 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/shipment_settings/increment_per_store',
@@ -6544,7 +6544,7 @@ T: {{var telephone}}
   ),
   717 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/shipment_settings/increment_step',
@@ -6553,7 +6553,7 @@ T: {{var telephone}}
   ),
   718 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/shipment_settings/next_id',
@@ -6562,7 +6562,7 @@ T: {{var telephone}}
   ),
   719 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/shipment_settings/shipmentformat',
@@ -6571,7 +6571,7 @@ T: {{var telephone}}
   ),
   720 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fooman_ordernumbercustomiser/shipment_settings/use_store_id_prefix',
@@ -6580,7 +6580,7 @@ T: {{var telephone}}
   ),
   721 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fulfillment/email_settings/order_update_email_guest_template',
@@ -6589,7 +6589,7 @@ T: {{var telephone}}
   ),
   722 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fulfillment/email_settings/order_update_email_template',
@@ -6598,7 +6598,7 @@ T: {{var telephone}}
   ),
   723 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fulfillment/webservice/secret',
@@ -6607,7 +6607,7 @@ T: {{var telephone}}
   ),
   724 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fulfillment/webservice/wsdl_customer',
@@ -6616,7 +6616,7 @@ T: {{var telephone}}
   ),
   725 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'fulfillment/webservice/wsdl_order',
@@ -6625,7 +6625,7 @@ T: {{var telephone}}
   ),
   726 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/country/allow',
@@ -6634,7 +6634,7 @@ T: {{var telephone}}
   ),
   727 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/country/default',
@@ -6643,7 +6643,7 @@ T: {{var telephone}}
   ),
   728 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/country/eu_countries',
@@ -6652,7 +6652,7 @@ T: {{var telephone}}
   ),
   729 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/country/optional_zip_countries',
@@ -6661,7 +6661,7 @@ T: {{var telephone}}
   ),
   730 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/locale/code',
@@ -6670,7 +6670,7 @@ T: {{var telephone}}
   ),
   731 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/locale/firstday',
@@ -6679,7 +6679,7 @@ T: {{var telephone}}
   ),
   732 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/locale/timezone',
@@ -6688,7 +6688,7 @@ T: {{var telephone}}
   ),
   733 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/locale/weekend',
@@ -6697,7 +6697,7 @@ T: {{var telephone}}
   ),
   734 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/region/display_all',
@@ -6706,7 +6706,7 @@ T: {{var telephone}}
   ),
   735 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/region/state_required',
@@ -6715,7 +6715,7 @@ T: {{var telephone}}
   ),
   736 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/store_information/address',
@@ -6724,7 +6724,7 @@ T: {{var telephone}}
   ),
   737 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/store_information/merchant_country',
@@ -6733,7 +6733,7 @@ T: {{var telephone}}
   ),
   738 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/store_information/merchant_vat_number',
@@ -6742,7 +6742,7 @@ T: {{var telephone}}
   ),
   739 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/store_information/name',
@@ -6751,7 +6751,7 @@ T: {{var telephone}}
   ),
   740 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/store_information/phone',
@@ -6760,7 +6760,7 @@ T: {{var telephone}}
   ),
   741 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'general/store_information/server_id',
@@ -6769,7 +6769,7 @@ T: {{var telephone}}
   ),
   742 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analytics/account',
@@ -6778,7 +6778,7 @@ T: {{var telephone}}
   ),
   743 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analytics/active',
@@ -6787,7 +6787,7 @@ T: {{var telephone}}
   ),
   744 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/accountnumber2',
@@ -6796,7 +6796,7 @@ T: {{var telephone}}
   ),
   745 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/allow_linker',
@@ -6805,7 +6805,7 @@ T: {{var telephone}}
   ),
   746 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/anonymise',
@@ -6814,7 +6814,7 @@ T: {{var telephone}}
   ),
   747 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/conversionenabled',
@@ -6823,7 +6823,7 @@ T: {{var telephone}}
   ),
   748 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/domainname',
@@ -6832,7 +6832,7 @@ T: {{var telephone}}
   ),
   749 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/domainname2',
@@ -6841,7 +6841,7 @@ T: {{var telephone}}
   ),
   750 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/firstouch',
@@ -6850,7 +6850,7 @@ T: {{var telephone}}
   ),
   751 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/ignore_ips',
@@ -6859,7 +6859,7 @@ T: {{var telephone}}
   ),
   752 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/ignore_local_ips',
@@ -6868,7 +6868,7 @@ T: {{var telephone}}
   ),
   753 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/remarketing_enabled',
@@ -6877,7 +6877,7 @@ T: {{var telephone}}
   ),
   754 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/store_transaction_affiliation',
@@ -6886,7 +6886,7 @@ T: {{var telephone}}
   ),
   755 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/trackpage404',
@@ -6895,7 +6895,7 @@ T: {{var telephone}}
   ),
   756 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/analyticsplus/trackpageloadtime',
@@ -6904,7 +6904,7 @@ T: {{var telephone}}
   ),
   757 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/active',
@@ -6913,7 +6913,7 @@ T: {{var telephone}}
   ),
   758 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/checkout_image',
@@ -6922,7 +6922,7 @@ T: {{var telephone}}
   ),
   759 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/continue_shopping_url',
@@ -6931,7 +6931,7 @@ T: {{var telephone}}
   ),
   760 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/debug',
@@ -6940,7 +6940,7 @@ T: {{var telephone}}
   ),
   761 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/disable_default_tax_tables',
@@ -6949,7 +6949,7 @@ T: {{var telephone}}
   ),
   762 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/hide_cart_contents',
@@ -6958,7 +6958,7 @@ T: {{var telephone}}
   ),
   763 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/locale',
@@ -6967,7 +6967,7 @@ T: {{var telephone}}
   ),
   764 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/merchant_id',
@@ -6976,7 +6976,7 @@ T: {{var telephone}}
   ),
   765 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/merchant_key',
@@ -6985,7 +6985,7 @@ T: {{var telephone}}
   ),
   766 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/order_status',
@@ -6994,7 +6994,7 @@ T: {{var telephone}}
   ),
   767 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/sandbox',
@@ -7003,7 +7003,7 @@ T: {{var telephone}}
   ),
   768 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/title',
@@ -7012,7 +7012,7 @@ T: {{var telephone}}
   ),
   769 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout/use_secure_callback_url',
@@ -7021,7 +7021,7 @@ T: {{var telephone}}
   ),
   770 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_carrier/active',
@@ -7030,7 +7030,7 @@ T: {{var telephone}}
   ),
   771 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_carrier/address_category',
@@ -7039,7 +7039,7 @@ T: {{var telephone}}
   ),
   772 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_carrier/default_height',
@@ -7048,7 +7048,7 @@ T: {{var telephone}}
   ),
   773 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_carrier/default_length',
@@ -7057,7 +7057,7 @@ T: {{var telephone}}
   ),
   774 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_carrier/default_price',
@@ -7066,7 +7066,7 @@ T: {{var telephone}}
   ),
   775 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_carrier/default_width',
@@ -7075,7 +7075,7 @@ T: {{var telephone}}
   ),
   776 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_carrier/methods',
@@ -7084,7 +7084,7 @@ T: {{var telephone}}
   ),
   777 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/active',
@@ -7093,7 +7093,7 @@ T: {{var telephone}}
   ),
   778 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/price_1',
@@ -7102,7 +7102,7 @@ T: {{var telephone}}
   ),
   779 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/price_2',
@@ -7111,7 +7111,7 @@ T: {{var telephone}}
   ),
   780 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/price_3',
@@ -7120,7 +7120,7 @@ T: {{var telephone}}
   ),
   781 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/sallowspecific_1',
@@ -7129,7 +7129,7 @@ T: {{var telephone}}
   ),
   782 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/sallowspecific_2',
@@ -7138,7 +7138,7 @@ T: {{var telephone}}
   ),
   783 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/sallowspecific_3',
@@ -7147,7 +7147,7 @@ T: {{var telephone}}
   ),
   784 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/specificcountry_1',
@@ -7156,7 +7156,7 @@ T: {{var telephone}}
   ),
   785 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/specificcountry_2',
@@ -7165,7 +7165,7 @@ T: {{var telephone}}
   ),
   786 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/specificcountry_3',
@@ -7174,7 +7174,7 @@ T: {{var telephone}}
   ),
   787 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/title_1',
@@ -7183,7 +7183,7 @@ T: {{var telephone}}
   ),
   788 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/title_2',
@@ -7192,7 +7192,7 @@ T: {{var telephone}}
   ),
   789 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_flatrate/title_3',
@@ -7201,7 +7201,7 @@ T: {{var telephone}}
   ),
   790 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_merchant/active',
@@ -7210,7 +7210,7 @@ T: {{var telephone}}
   ),
   791 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_merchant/allowed_methods',
@@ -7219,7 +7219,7 @@ T: {{var telephone}}
   ),
   792 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_virtual/active',
@@ -7228,7 +7228,7 @@ T: {{var telephone}}
   ),
   793 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_virtual/method',
@@ -7237,7 +7237,7 @@ T: {{var telephone}}
   ),
   794 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/checkout_shipping_virtual/schedule',
@@ -7246,7 +7246,7 @@ T: {{var telephone}}
   ),
   795 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/account_id',
@@ -7255,7 +7255,7 @@ T: {{var telephone}}
   ),
   796 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/account_type',
@@ -7264,7 +7264,7 @@ T: {{var telephone}}
   ),
   797 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/commerce_search',
@@ -7273,7 +7273,7 @@ T: {{var telephone}}
   ),
   798 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/debug',
@@ -7282,7 +7282,7 @@ T: {{var telephone}}
   ),
   799 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/login',
@@ -7291,7 +7291,7 @@ T: {{var telephone}}
   ),
   800 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/observed',
@@ -7300,7 +7300,7 @@ T: {{var telephone}}
   ),
   801 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/password',
@@ -7309,7 +7309,7 @@ T: {{var telephone}}
   ),
   802 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/product_ads',
@@ -7318,7 +7318,7 @@ T: {{var telephone}}
   ),
   803 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/product_link_to',
@@ -7327,7 +7327,7 @@ T: {{var telephone}}
   ),
   804 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/product_search',
@@ -7336,7 +7336,7 @@ T: {{var telephone}}
   ),
   805 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'google/googleshopping/target_country',
@@ -7345,7 +7345,7 @@ T: {{var telephone}}
   ),
   806 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/content/show_custom',
@@ -7354,7 +7354,7 @@ T: {{var telephone}}
   ),
   807 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/content/show_in_category',
@@ -7363,7 +7363,7 @@ T: {{var telephone}}
   ),
   808 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/content/show_in_cms',
@@ -7372,7 +7372,7 @@ T: {{var telephone}}
   ),
   809 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/content/show_in_home',
@@ -7381,7 +7381,7 @@ T: {{var telephone}}
   ),
   810 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/content/show_in_product',
@@ -7390,7 +7390,7 @@ T: {{var telephone}}
   ),
   811 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/content/show_widget',
@@ -7399,7 +7399,7 @@ T: {{var telephone}}
   ),
   812 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/general/button_code',
@@ -7408,7 +7408,7 @@ T: {{var telephone}}
   ),
   813 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/general/count',
@@ -7417,7 +7417,7 @@ T: {{var telephone}}
   ),
   814 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/general/href',
@@ -7426,7 +7426,7 @@ T: {{var telephone}}
   ),
   815 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'googleplusone/general/size',
@@ -7435,7 +7435,7 @@ T: {{var telephone}}
   ),
   816 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'hide_backend_notifications/general/enabled',
@@ -7444,7 +7444,7 @@ T: {{var telephone}}
   ),
   817 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'hide_backend_notifications/general/only_popup',
@@ -7453,7 +7453,7 @@ T: {{var telephone}}
   ),
   818 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'invoicing_informations/general/subsidiary',
@@ -7462,7 +7462,7 @@ T: {{var telephone}}
   ),
   819 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'invoicing_informations/general/subsidiary_address',
@@ -7471,7 +7471,7 @@ T: {{var telephone}}
   ),
   820 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'invoicing_informations/general/subsidiary_vat_id',
@@ -7480,7 +7480,7 @@ T: {{var telephone}}
   ),
   821 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/advanced/priority',
@@ -7489,7 +7489,7 @@ T: {{var telephone}}
   ),
   822 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/chromelogger/priority',
@@ -7498,7 +7498,7 @@ T: {{var telephone}}
   ),
   823 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/db/max_days_to_keep',
@@ -7507,7 +7507,7 @@ T: {{var telephone}}
   ),
   824 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/db/priority',
@@ -7516,16 +7516,16 @@ T: {{var telephone}}
   ),
   825 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
-      'key' => 'logger/defaultscope/priority',
+      'key' => 'logger/default/priority',
       'value' => 'default',
     ),
   ),
   826 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/general/format',
@@ -7540,7 +7540,7 @@ FILE: %file%:%line%
   ),
   827 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/general/max_backtrace_lines',
@@ -7549,7 +7549,7 @@ FILE: %file%:%line%
   ),
   828 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/general/priority',
@@ -7558,7 +7558,7 @@ FILE: %file%:%line%
   ),
   829 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/general/targets',
@@ -7567,7 +7567,7 @@ FILE: %file%:%line%
   ),
   830 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/general/target_map',
@@ -7576,7 +7576,7 @@ FILE: %file%:%line%
   ),
   831 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/general/use_queue',
@@ -7585,7 +7585,7 @@ FILE: %file%:%line%
   ),
   832 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/general/viewer_enabled',
@@ -7594,7 +7594,7 @@ FILE: %file%:%line%
   ),
   833 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/graylog2/app_name',
@@ -7603,7 +7603,7 @@ FILE: %file%:%line%
   ),
   834 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/graylog2/chunk_size',
@@ -7612,7 +7612,7 @@ FILE: %file%:%line%
   ),
   835 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/graylog2/hostname',
@@ -7621,7 +7621,7 @@ FILE: %file%:%line%
   ),
   836 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/graylog2/port',
@@ -7630,7 +7630,7 @@ FILE: %file%:%line%
   ),
   837 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/graylog2/priority',
@@ -7639,7 +7639,7 @@ FILE: %file%:%line%
   ),
   838 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglyhttps/app_name',
@@ -7648,7 +7648,7 @@ FILE: %file%:%line%
   ),
   839 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglyhttps/inputkey',
@@ -7657,7 +7657,7 @@ FILE: %file%:%line%
   ),
   840 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglyhttps/priority',
@@ -7666,7 +7666,7 @@ FILE: %file%:%line%
   ),
   841 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglyhttps/timeout',
@@ -7675,7 +7675,7 @@ FILE: %file%:%line%
   ),
   842 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglysyslog/app_name',
@@ -7684,7 +7684,7 @@ FILE: %file%:%line%
   ),
   843 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglysyslog/hostname',
@@ -7693,7 +7693,7 @@ FILE: %file%:%line%
   ),
   844 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglysyslog/port',
@@ -7702,7 +7702,7 @@ FILE: %file%:%line%
   ),
   845 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglysyslog/priority',
@@ -7711,7 +7711,7 @@ FILE: %file%:%line%
   ),
   846 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/logglysyslog/timeout',
@@ -7720,7 +7720,7 @@ FILE: %file%:%line%
   ),
   847 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/mailconfig/from',
@@ -7729,7 +7729,7 @@ FILE: %file%:%line%
   ),
   848 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/mailconfig/hostname',
@@ -7738,7 +7738,7 @@ FILE: %file%:%line%
   ),
   849 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/mailconfig/password',
@@ -7747,7 +7747,7 @@ FILE: %file%:%line%
   ),
   850 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/mailconfig/priority',
@@ -7756,7 +7756,7 @@ FILE: %file%:%line%
   ),
   851 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/mailconfig/to',
@@ -7765,7 +7765,7 @@ FILE: %file%:%line%
   ),
   852 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/mailconfig/username',
@@ -7774,7 +7774,7 @@ FILE: %file%:%line%
   ),
   853 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/rsyslog/app_name',
@@ -7783,7 +7783,7 @@ FILE: %file%:%line%
   ),
   854 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/rsyslog/hostname',
@@ -7792,7 +7792,7 @@ FILE: %file%:%line%
   ),
   855 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/rsyslog/port',
@@ -7801,7 +7801,7 @@ FILE: %file%:%line%
   ),
   856 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/rsyslog/priority',
@@ -7810,7 +7810,7 @@ FILE: %file%:%line%
   ),
   857 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/rsyslog/timeout',
@@ -7819,7 +7819,7 @@ FILE: %file%:%line%
   ),
   858 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/xmpp/domain',
@@ -7828,7 +7828,7 @@ FILE: %file%:%line%
   ),
   859 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/xmpp/host',
@@ -7837,7 +7837,7 @@ FILE: %file%:%line%
   ),
   860 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/xmpp/password',
@@ -7846,7 +7846,7 @@ FILE: %file%:%line%
   ),
   861 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/xmpp/port',
@@ -7855,7 +7855,7 @@ FILE: %file%:%line%
   ),
   862 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/xmpp/priority',
@@ -7864,7 +7864,7 @@ FILE: %file%:%line%
   ),
   863 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/xmpp/recipient',
@@ -7873,7 +7873,7 @@ FILE: %file%:%line%
   ),
   864 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'logger/xmpp/username',
@@ -7882,7 +7882,7 @@ FILE: %file%:%line%
   ),
   865 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/action/cart_add_redirect',
@@ -7891,7 +7891,7 @@ FILE: %file%:%line%
   ),
   866 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/action/cart_add_redirect_url',
@@ -7900,7 +7900,7 @@ FILE: %file%:%line%
   ),
   867 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/ajax_update/ajax_save_billing_fields',
@@ -7909,7 +7909,7 @@ FILE: %file%:%line%
   ),
   868 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/ajax_update/automatic_update_fields',
@@ -7918,7 +7918,7 @@ FILE: %file%:%line%
   ),
   869 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/ajax_update/enable_ajax_save_billing',
@@ -7927,7 +7927,7 @@ FILE: %file%:%line%
   ),
   870 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/ajax_update/enable_automatic_update',
@@ -7936,7 +7936,7 @@ FILE: %file%:%line%
   ),
   871 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/cart_services/enabled',
@@ -7945,7 +7945,7 @@ FILE: %file%:%line%
   ),
   872 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/cart_services/service_icon_height',
@@ -7954,7 +7954,7 @@ FILE: %file%:%line%
   ),
   873 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/cart_services/service_icon_width',
@@ -7963,7 +7963,7 @@ FILE: %file%:%line%
   ),
   874 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/columns_order/billing',
@@ -7972,7 +7972,7 @@ FILE: %file%:%line%
   ),
   875 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/columns_order/payment',
@@ -7981,7 +7981,7 @@ FILE: %file%:%line%
   ),
   876 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/columns_order/review',
@@ -7990,7 +7990,7 @@ FILE: %file%:%line%
   ),
   877 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_interval',
@@ -7999,7 +7999,7 @@ FILE: %file%:%line%
   ),
   878 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_knob_color',
@@ -8008,7 +8008,7 @@ FILE: %file%:%line%
   ),
   879 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_on',
@@ -8017,7 +8017,7 @@ FILE: %file%:%line%
   ),
   880 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_product_description',
@@ -8026,7 +8026,7 @@ FILE: %file%:%line%
   ),
   881 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_product_image',
@@ -8035,7 +8035,7 @@ FILE: %file%:%line%
   ),
   882 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_product_image_height',
@@ -8044,7 +8044,7 @@ FILE: %file%:%line%
   ),
   883 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_product_image_width',
@@ -8053,7 +8053,7 @@ FILE: %file%:%line%
   ),
   884 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_product_name',
@@ -8062,7 +8062,7 @@ FILE: %file%:%line%
   ),
   885 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/countdown/countdown_time',
@@ -8071,7 +8071,7 @@ FILE: %file%:%line%
   ),
   886 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_additional_field',
@@ -8080,7 +8080,7 @@ FILE: %file%:%line%
   ),
   887 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_address',
@@ -8089,7 +8089,7 @@ FILE: %file%:%line%
   ),
   888 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_city',
@@ -8098,7 +8098,7 @@ FILE: %file%:%line%
   ),
   889 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_comments',
@@ -8107,7 +8107,7 @@ FILE: %file%:%line%
   ),
   890 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_company',
@@ -8116,7 +8116,7 @@ FILE: %file%:%line%
   ),
   891 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_company_vatid',
@@ -8125,7 +8125,7 @@ FILE: %file%:%line%
   ),
   892 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_confirm_email',
@@ -8134,7 +8134,7 @@ FILE: %file%:%line%
   ),
   893 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_country',
@@ -8143,7 +8143,7 @@ FILE: %file%:%line%
   ),
   894 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_fax',
@@ -8152,7 +8152,7 @@ FILE: %file%:%line%
   ),
   895 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_state',
@@ -8161,7 +8161,7 @@ FILE: %file%:%line%
   ),
   896 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_telephone',
@@ -8170,7 +8170,7 @@ FILE: %file%:%line%
   ),
   897 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/display_option/display_zipcode',
@@ -8179,7 +8179,7 @@ FILE: %file%:%line%
   ),
   898 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/account_type_radios',
@@ -8188,7 +8188,7 @@ FILE: %file%:%line%
   ),
   899 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/allow_guest_checkout',
@@ -8197,7 +8197,7 @@ FILE: %file%:%line%
   ),
   900 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/allow_user_log_in',
@@ -8206,7 +8206,7 @@ FILE: %file%:%line%
   ),
   901 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/cart_quantity_type',
@@ -8215,7 +8215,7 @@ FILE: %file%:%line%
   ),
   902 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/cart_remove_position',
@@ -8224,7 +8224,7 @@ FILE: %file%:%line%
   ),
   903 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/checkout_caption',
@@ -8233,7 +8233,7 @@ FILE: %file%:%line%
   ),
   904 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/checkout_description',
@@ -8242,7 +8242,7 @@ FILE: %file%:%line%
   ),
   905 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/checkout_title',
@@ -8251,7 +8251,7 @@ FILE: %file%:%line%
   ),
   906 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/default_country_id',
@@ -8260,7 +8260,7 @@ FILE: %file%:%line%
   ),
   907 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/default_payment_method',
@@ -8269,7 +8269,7 @@ FILE: %file%:%line%
   ),
   908 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/default_shipping_method',
@@ -8278,7 +8278,7 @@ FILE: %file%:%line%
   ),
   909 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/discount_show_text',
@@ -8287,7 +8287,7 @@ FILE: %file%:%line%
   ),
   910 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enabled',
@@ -8296,7 +8296,7 @@ FILE: %file%:%line%
   ),
   911 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enabled_multistep',
@@ -8305,7 +8305,7 @@ FILE: %file%:%line%
   ),
   912 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enable_cart_qty',
@@ -8314,7 +8314,7 @@ FILE: %file%:%line%
   ),
   913 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enable_cart_quantity',
@@ -8323,7 +8323,7 @@ FILE: %file%:%line%
   ),
   914 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enable_cart_remove',
@@ -8332,7 +8332,7 @@ FILE: %file%:%line%
   ),
   915 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enable_checkout_caption',
@@ -8341,7 +8341,7 @@ FILE: %file%:%line%
   ),
   916 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enable_discount',
@@ -8350,7 +8350,7 @@ FILE: %file%:%line%
   ),
   917 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enable_geoip',
@@ -8359,7 +8359,7 @@ FILE: %file%:%line%
   ),
   918 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enable_money_order',
@@ -8368,7 +8368,7 @@ FILE: %file%:%line%
   ),
   919 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/enable_realtime_validation',
@@ -8377,7 +8377,7 @@ FILE: %file%:%line%
   ),
   920 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/geoip_database',
@@ -8386,7 +8386,7 @@ FILE: %file%:%line%
   ),
   921 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/packshot_height',
@@ -8395,7 +8395,7 @@ FILE: %file%:%line%
   ),
   922 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/packshot_width',
@@ -8404,7 +8404,7 @@ FILE: %file%:%line%
   ),
   923 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/quantity_inside_custom_options',
@@ -8413,7 +8413,7 @@ FILE: %file%:%line%
   ),
   924 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/render_address_selector_as',
@@ -8422,7 +8422,7 @@ FILE: %file%:%line%
   ),
   925 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_additional_payment_methods',
@@ -8431,7 +8431,7 @@ FILE: %file%:%line%
   ),
   926 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_aside_summary',
@@ -8440,7 +8440,7 @@ FILE: %file%:%line%
   ),
   927 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_fulfillment_as_step',
@@ -8449,7 +8449,7 @@ FILE: %file%:%line%
   ),
   928 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_images_in_review',
@@ -8458,7 +8458,7 @@ FILE: %file%:%line%
   ),
   929 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_legends_contact_and_billing',
@@ -8467,7 +8467,7 @@ FILE: %file%:%line%
   ),
   930 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_payment_icons',
@@ -8476,7 +8476,7 @@ FILE: %file%:%line%
   ),
   931 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_payment_order_amount',
@@ -8485,7 +8485,7 @@ FILE: %file%:%line%
   ),
   932 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_powered_area',
@@ -8494,7 +8494,7 @@ FILE: %file%:%line%
   ),
   933 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_required_stars_first',
@@ -8503,7 +8503,7 @@ FILE: %file%:%line%
   ),
   934 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_review_subtotal',
@@ -8512,7 +8512,7 @@ FILE: %file%:%line%
   ),
   935 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_review_tax',
@@ -8521,7 +8521,7 @@ FILE: %file%:%line%
   ),
   936 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/show_trust_area',
@@ -8530,7 +8530,7 @@ FILE: %file%:%line%
   ),
   937 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/tooltip_click_trigger',
@@ -8539,7 +8539,7 @@ FILE: %file%:%line%
   ),
   938 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/general/use_card_detector',
@@ -8548,7 +8548,7 @@ FILE: %file%:%line%
   ),
   939 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/geoip/enabled',
@@ -8557,7 +8557,7 @@ FILE: %file%:%line%
   ),
   940 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/geoip/ignore_ips',
@@ -8566,7 +8566,7 @@ FILE: %file%:%line%
   ),
   941 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/layout/hide_breadcrumbs',
@@ -8575,7 +8575,7 @@ FILE: %file%:%line%
   ),
   942 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/layout/hide_currency_selector',
@@ -8584,7 +8584,7 @@ FILE: %file%:%line%
   ),
   943 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/layout/hide_footer',
@@ -8593,7 +8593,7 @@ FILE: %file%:%line%
   ),
   944 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/layout/hide_language_selector',
@@ -8602,7 +8602,7 @@ FILE: %file%:%line%
   ),
   945 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/layout/hide_top_account',
@@ -8611,7 +8611,7 @@ FILE: %file%:%line%
   ),
   946 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/layout/hide_top_nav',
@@ -8620,7 +8620,7 @@ FILE: %file%:%line%
   ),
   947 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/layout/logo_clickable',
@@ -8629,7 +8629,7 @@ FILE: %file%:%line%
   ),
   948 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/social/enable_facebook_connect',
@@ -8638,7 +8638,7 @@ FILE: %file%:%line%
   ),
   949 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/social/enable_twitter_connect',
@@ -8647,7 +8647,7 @@ FILE: %file%:%line%
   ),
   950 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/social/facebook_login',
@@ -8656,7 +8656,7 @@ FILE: %file%:%line%
   ),
   951 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/terms/enable_terms',
@@ -8665,7 +8665,7 @@ FILE: %file%:%line%
   ),
   952 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/terms/terms_contents',
@@ -8674,7 +8674,7 @@ FILE: %file%:%line%
   ),
   953 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/terms/terms_title',
@@ -8683,7 +8683,7 @@ FILE: %file%:%line%
   ),
   954 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexwaycheckout/urls/source',
@@ -8692,7 +8692,7 @@ FILE: %file%:%line%
   ),
   955 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/ajax_update/enable_ajax_save_billing',
@@ -8701,7 +8701,7 @@ FILE: %file%:%line%
   ),
   956 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_address',
@@ -8710,7 +8710,7 @@ FILE: %file%:%line%
   ),
   957 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_city',
@@ -8719,7 +8719,7 @@ FILE: %file%:%line%
   ),
   958 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_comments',
@@ -8728,7 +8728,7 @@ FILE: %file%:%line%
   ),
   959 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_company',
@@ -8737,7 +8737,7 @@ FILE: %file%:%line%
   ),
   960 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_country',
@@ -8746,7 +8746,7 @@ FILE: %file%:%line%
   ),
   961 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_fax',
@@ -8755,7 +8755,7 @@ FILE: %file%:%line%
   ),
   962 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_state',
@@ -8764,7 +8764,7 @@ FILE: %file%:%line%
   ),
   963 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_telephone',
@@ -8773,7 +8773,7 @@ FILE: %file%:%line%
   ),
   964 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/display_option/display_zipcode',
@@ -8782,7 +8782,7 @@ FILE: %file%:%line%
   ),
   965 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/allow_guest_checkout',
@@ -8791,7 +8791,7 @@ FILE: %file%:%line%
   ),
   966 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/checkout_description',
@@ -8800,7 +8800,7 @@ FILE: %file%:%line%
   ),
   967 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/checkout_title',
@@ -8809,7 +8809,7 @@ FILE: %file%:%line%
   ),
   968 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/default_country_id',
@@ -8818,7 +8818,7 @@ FILE: %file%:%line%
   ),
   969 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/default_payment_method',
@@ -8827,7 +8827,7 @@ FILE: %file%:%line%
   ),
   970 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/default_shipping_method',
@@ -8836,7 +8836,7 @@ FILE: %file%:%line%
   ),
   971 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/enabled',
@@ -8845,7 +8845,7 @@ FILE: %file%:%line%
   ),
   972 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/enable_discount',
@@ -8854,7 +8854,7 @@ FILE: %file%:%line%
   ),
   973 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/enable_geoip',
@@ -8863,7 +8863,7 @@ FILE: %file%:%line%
   ),
   974 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/general/geoip_database',
@@ -8872,7 +8872,7 @@ FILE: %file%:%line%
   ),
   975 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/terms/enable_terms',
@@ -8881,7 +8881,7 @@ FILE: %file%:%line%
   ),
   976 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/terms/terms_contents',
@@ -8890,7 +8890,7 @@ FILE: %file%:%line%
   ),
   977 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_checkout/terms/terms_title',
@@ -8899,7 +8899,7 @@ FILE: %file%:%line%
   ),
   978 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'nexway_legacysoapapi/cocooncatalog/tax_class',
@@ -8908,7 +8908,7 @@ FILE: %file%:%line%
   ),
   979 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'offlineMaintenance/settings/enabled',
@@ -8917,7 +8917,7 @@ FILE: %file%:%line%
   ),
   980 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'offlineMaintenance/settings/message',
@@ -8959,7 +8959,7 @@ h2
   ),
   981 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'offlineMaintenance/settings/showreminder',
@@ -8968,7 +8968,7 @@ h2
   ),
   982 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_new_label/days',
@@ -8977,7 +8977,7 @@ h2
   ),
   983 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_new_label/display',
@@ -8986,7 +8986,7 @@ h2
   ),
   984 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_new_label/image_path',
@@ -8995,7 +8995,7 @@ h2
   ),
   985 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_new_label/overrides',
@@ -9004,7 +9004,7 @@ h2
   ),
   986 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_new_label/overrides_native_new',
@@ -9013,7 +9013,7 @@ h2
   ),
   987 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_new_label/position',
@@ -9022,7 +9022,7 @@ h2
   ),
   988 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_new_label/text',
@@ -9031,7 +9031,7 @@ h2
   ),
   989 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_onsale_label/display',
@@ -9040,7 +9040,7 @@ h2
   ),
   990 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_onsale_label/image_path',
@@ -9049,7 +9049,7 @@ h2
   ),
   991 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_onsale_label/position',
@@ -9058,7 +9058,7 @@ h2
   ),
   992 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_onsale_label/text',
@@ -9067,7 +9067,7 @@ h2
   ),
   993 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/category_onsale_label/threshold',
@@ -9076,7 +9076,7 @@ h2
   ),
   994 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_new_label/days',
@@ -9085,7 +9085,7 @@ h2
   ),
   995 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_new_label/display',
@@ -9094,7 +9094,7 @@ h2
   ),
   996 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_new_label/image_path',
@@ -9103,7 +9103,7 @@ h2
   ),
   997 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_new_label/overrides',
@@ -9112,7 +9112,7 @@ h2
   ),
   998 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_new_label/overrides_native_new',
@@ -9121,7 +9121,7 @@ h2
   ),
   999 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_new_label/position',
@@ -9130,7 +9130,7 @@ h2
   ),
   1000 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_new_label/text',
@@ -9139,7 +9139,7 @@ h2
   ),
   1001 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_onsale_label/display',
@@ -9148,7 +9148,7 @@ h2
   ),
   1002 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_onsale_label/image_path',
@@ -9157,7 +9157,7 @@ h2
   ),
   1003 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_onsale_label/position',
@@ -9166,7 +9166,7 @@ h2
   ),
   1004 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_onsale_label/text',
@@ -9175,7 +9175,7 @@ h2
   ),
   1005 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'onsale/product_onsale_label/threshold',
@@ -9184,7 +9184,7 @@ h2
   ),
   1006 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/active',
@@ -9193,7 +9193,7 @@ h2
   ),
   1007 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/allowspecific',
@@ -9202,7 +9202,7 @@ h2
   ),
   1008 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/allow_partial_authorization',
@@ -9211,7 +9211,7 @@ h2
   ),
   1009 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/cctypes',
@@ -9220,7 +9220,7 @@ h2
   ),
   1010 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/centinel',
@@ -9229,7 +9229,7 @@ h2
   ),
   1011 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/cgi_url',
@@ -9238,7 +9238,7 @@ h2
   ),
   1012 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/currency',
@@ -9247,7 +9247,7 @@ h2
   ),
   1013 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/debug',
@@ -9256,7 +9256,7 @@ h2
   ),
   1014 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/email_customer',
@@ -9265,7 +9265,7 @@ h2
   ),
   1015 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/login',
@@ -9274,7 +9274,7 @@ h2
   ),
   1016 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/max_order_total',
@@ -9283,7 +9283,7 @@ h2
   ),
   1017 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/merchant_email',
@@ -9292,7 +9292,7 @@ h2
   ),
   1018 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/min_order_total',
@@ -9301,7 +9301,7 @@ h2
   ),
   1019 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/order_status',
@@ -9310,7 +9310,7 @@ h2
   ),
   1020 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/payment_action',
@@ -9319,7 +9319,7 @@ h2
   ),
   1021 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/sort_order',
@@ -9328,7 +9328,7 @@ h2
   ),
   1022 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/test',
@@ -9337,7 +9337,7 @@ h2
   ),
   1023 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/title',
@@ -9346,7 +9346,7 @@ h2
   ),
   1024 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/trans_key',
@@ -9355,7 +9355,7 @@ h2
   ),
   1025 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet/useccv',
@@ -9364,7 +9364,7 @@ h2
   ),
   1026 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/active',
@@ -9373,7 +9373,7 @@ h2
   ),
   1027 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/allowspecific',
@@ -9382,7 +9382,7 @@ h2
   ),
   1028 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/cctypes',
@@ -9391,7 +9391,7 @@ h2
   ),
   1029 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/cgi_url',
@@ -9400,7 +9400,7 @@ h2
   ),
   1030 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/currency',
@@ -9409,7 +9409,7 @@ h2
   ),
   1031 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/debug',
@@ -9418,7 +9418,7 @@ h2
   ),
   1032 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/email_customer',
@@ -9427,7 +9427,7 @@ h2
   ),
   1033 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/login',
@@ -9436,7 +9436,7 @@ h2
   ),
   1034 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/max_order_total',
@@ -9445,7 +9445,7 @@ h2
   ),
   1035 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/merchant_email',
@@ -9454,7 +9454,7 @@ h2
   ),
   1036 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/min_order_total',
@@ -9463,7 +9463,7 @@ h2
   ),
   1037 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/order_status',
@@ -9472,7 +9472,7 @@ h2
   ),
   1038 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/payment_action',
@@ -9481,7 +9481,7 @@ h2
   ),
   1039 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/sort_order',
@@ -9490,7 +9490,7 @@ h2
   ),
   1040 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/test',
@@ -9499,7 +9499,7 @@ h2
   ),
   1041 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/title',
@@ -9508,7 +9508,7 @@ h2
   ),
   1042 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/trans_key',
@@ -9517,7 +9517,7 @@ h2
   ),
   1043 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/trans_md5',
@@ -9526,7 +9526,7 @@ h2
   ),
   1044 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/authorizenet_directpost/useccv',
@@ -9535,7 +9535,7 @@ h2
   ),
   1045 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/banktransfer/active',
@@ -9544,7 +9544,7 @@ h2
   ),
   1046 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/banktransfer/allowspecific',
@@ -9553,7 +9553,7 @@ h2
   ),
   1047 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/banktransfer/instructions',
@@ -9562,7 +9562,7 @@ h2
   ),
   1048 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/banktransfer/max_order_total',
@@ -9571,7 +9571,7 @@ h2
   ),
   1049 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/banktransfer/min_order_total',
@@ -9580,7 +9580,7 @@ h2
   ),
   1050 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/banktransfer/order_status',
@@ -9589,7 +9589,7 @@ h2
   ),
   1051 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/banktransfer/sort_order',
@@ -9598,7 +9598,7 @@ h2
   ),
   1052 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/banktransfer/title',
@@ -9607,7 +9607,7 @@ h2
   ),
   1053 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/cashondelivery/active',
@@ -9616,7 +9616,7 @@ h2
   ),
   1054 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/cashondelivery/allowspecific',
@@ -9625,7 +9625,7 @@ h2
   ),
   1055 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/cashondelivery/instructions',
@@ -9634,7 +9634,7 @@ h2
   ),
   1056 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/cashondelivery/max_order_total',
@@ -9643,7 +9643,7 @@ h2
   ),
   1057 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/cashondelivery/min_order_total',
@@ -9652,7 +9652,7 @@ h2
   ),
   1058 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/cashondelivery/order_status',
@@ -9661,7 +9661,7 @@ h2
   ),
   1059 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/cashondelivery/sort_order',
@@ -9670,7 +9670,7 @@ h2
   ),
   1060 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/cashondelivery/title',
@@ -9679,7 +9679,7 @@ h2
   ),
   1061 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/active',
@@ -9688,7 +9688,7 @@ h2
   ),
   1062 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/allowspecific',
@@ -9697,7 +9697,7 @@ h2
   ),
   1063 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/cctypes',
@@ -9706,7 +9706,7 @@ h2
   ),
   1064 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/centinel',
@@ -9715,7 +9715,7 @@ h2
   ),
   1065 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/max_order_total',
@@ -9724,7 +9724,7 @@ h2
   ),
   1066 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/min_order_total',
@@ -9733,7 +9733,7 @@ h2
   ),
   1067 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/order_status',
@@ -9742,7 +9742,7 @@ h2
   ),
   1068 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/sort_order',
@@ -9751,7 +9751,7 @@ h2
   ),
   1069 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/title',
@@ -9760,7 +9760,7 @@ h2
   ),
   1070 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/ccsave/useccv',
@@ -9769,7 +9769,7 @@ h2
   ),
   1071 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/active',
@@ -9778,7 +9778,7 @@ h2
   ),
   1072 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/allowspecific',
@@ -9787,7 +9787,7 @@ h2
   ),
   1073 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/mailing_address',
@@ -9798,7 +9798,7 @@ h2
   ),
   1074 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/max_order_total',
@@ -9807,7 +9807,7 @@ h2
   ),
   1075 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/min_order_total',
@@ -9816,7 +9816,7 @@ h2
   ),
   1076 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/order_status',
@@ -9825,7 +9825,7 @@ h2
   ),
   1077 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/payable_to',
@@ -9834,7 +9834,7 @@ h2
   ),
   1078 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/sort_order',
@@ -9843,7 +9843,7 @@ h2
   ),
   1079 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/checkmo/title',
@@ -9852,7 +9852,7 @@ h2
   ),
   1080 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/active',
@@ -9861,7 +9861,7 @@ h2
   ),
   1081 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/allow_oneclick_wizard',
@@ -9870,7 +9870,7 @@ h2
   ),
   1082 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/cctypes',
@@ -9879,7 +9879,7 @@ h2
   ),
   1083 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/country_id',
@@ -9888,7 +9888,7 @@ h2
   ),
   1084 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/date_limit_to_pay',
@@ -9897,7 +9897,7 @@ h2
   ),
   1085 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/enable3d',
@@ -9906,7 +9906,7 @@ h2
   ),
   1086 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/enable_fraud_check',
@@ -9915,7 +9915,7 @@ h2
   ),
   1087 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/encryption',
@@ -9924,7 +9924,7 @@ h2
   ),
   1088 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/environment',
@@ -9933,7 +9933,7 @@ h2
   ),
   1089 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/methods',
@@ -9942,7 +9942,7 @@ h2
   ),
   1090 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/methods_order',
@@ -9951,7 +9951,7 @@ h2
   ),
   1091 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/oneclick_active',
@@ -9960,7 +9960,7 @@ h2
   ),
   1092 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/oneclick_optmode',
@@ -9969,7 +9969,7 @@ h2
   ),
   1093 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/oneclick_title',
@@ -9978,7 +9978,7 @@ h2
   ),
   1094 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/payment_action',
@@ -9987,7 +9987,7 @@ h2
   ),
   1095 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/provider',
@@ -9996,7 +9996,7 @@ h2
   ),
   1096 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/secret',
@@ -10005,7 +10005,7 @@ h2
   ),
   1097 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/send_fraud_email',
@@ -10014,7 +10014,7 @@ h2
   ),
   1098 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/soft_descriptor',
@@ -10023,7 +10023,7 @@ h2
   ),
   1099 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/title',
@@ -10032,7 +10032,7 @@ h2
   ),
   1100 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/directpayment/vendor',
@@ -10041,7 +10041,7 @@ h2
   ),
   1101 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/free/active',
@@ -10050,7 +10050,7 @@ h2
   ),
   1102 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/free/allowspecific',
@@ -10059,7 +10059,7 @@ h2
   ),
   1103 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/free/order_status',
@@ -10068,7 +10068,7 @@ h2
   ),
   1104 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/free/payment_action',
@@ -10077,7 +10077,7 @@ h2
   ),
   1105 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/free/sort_order',
@@ -10086,7 +10086,7 @@ h2
   ),
   1106 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/free/title',
@@ -10095,7 +10095,7 @@ h2
   ),
   1107 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/hosted_pro/active',
@@ -10104,7 +10104,7 @@ h2
   ),
   1108 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/payflow_link/active',
@@ -10113,7 +10113,7 @@ h2
   ),
   1109 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypaluk_direct/active',
@@ -10122,7 +10122,7 @@ h2
   ),
   1110 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypaluk_express/active',
@@ -10131,7 +10131,7 @@ h2
   ),
   1111 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_billing_agreement/active',
@@ -10140,7 +10140,7 @@ h2
   ),
   1112 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_billing_agreement/allowspecific',
@@ -10149,7 +10149,7 @@ h2
   ),
   1113 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_billing_agreement/allow_billing_agreement_wizard',
@@ -10158,7 +10158,7 @@ h2
   ),
   1114 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_billing_agreement/debug',
@@ -10167,7 +10167,7 @@ h2
   ),
   1115 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_billing_agreement/line_items_enabled',
@@ -10176,7 +10176,7 @@ h2
   ),
   1116 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_billing_agreement/payment_action',
@@ -10185,7 +10185,7 @@ h2
   ),
   1117 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_billing_agreement/sort_order',
@@ -10194,7 +10194,7 @@ h2
   ),
   1118 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_billing_agreement/title',
@@ -10203,7 +10203,7 @@ h2
   ),
   1119 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/active',
@@ -10212,7 +10212,7 @@ h2
   ),
   1120 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/allowspecific',
@@ -10221,7 +10221,7 @@ h2
   ),
   1121 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/cctypes',
@@ -10230,7 +10230,7 @@ h2
   ),
   1122 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/centinel',
@@ -10239,7 +10239,7 @@ h2
   ),
   1123 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/debug',
@@ -10248,7 +10248,7 @@ h2
   ),
   1124 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/line_items_enabled',
@@ -10257,7 +10257,7 @@ h2
   ),
   1125 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/payment_action',
@@ -10266,7 +10266,7 @@ h2
   ),
   1126 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/sort_order',
@@ -10275,7 +10275,7 @@ h2
   ),
   1127 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/title',
@@ -10284,7 +10284,7 @@ h2
   ),
   1128 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_direct/useccv',
@@ -10293,7 +10293,7 @@ h2
   ),
   1129 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/active',
@@ -10302,7 +10302,7 @@ h2
   ),
   1130 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/allowspecific',
@@ -10311,7 +10311,7 @@ h2
   ),
   1131 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/allow_ba_signup',
@@ -10320,7 +10320,7 @@ h2
   ),
   1132 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/authorization_honor_period',
@@ -10329,7 +10329,7 @@ h2
   ),
   1133 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/child_authorization_number',
@@ -10338,7 +10338,7 @@ h2
   ),
   1134 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/debug',
@@ -10347,7 +10347,7 @@ h2
   ),
   1135 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/line_items_enabled',
@@ -10356,7 +10356,7 @@ h2
   ),
   1136 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/order_valid_period',
@@ -10365,7 +10365,7 @@ h2
   ),
   1137 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/payment_action',
@@ -10374,7 +10374,7 @@ h2
   ),
   1138 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/solution_type',
@@ -10383,7 +10383,7 @@ h2
   ),
   1139 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/sort_order',
@@ -10392,7 +10392,7 @@ h2
   ),
   1140 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/title',
@@ -10401,7 +10401,7 @@ h2
   ),
   1141 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/transfer_shipping_options',
@@ -10410,7 +10410,7 @@ h2
   ),
   1142 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/visible_on_cart',
@@ -10419,7 +10419,7 @@ h2
   ),
   1143 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_express/visible_on_product',
@@ -10428,7 +10428,7 @@ h2
   ),
   1144 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/paypal_standard/active',
@@ -10437,7 +10437,7 @@ h2
   ),
   1145 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/purchaseorder/active',
@@ -10446,7 +10446,7 @@ h2
   ),
   1146 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/purchaseorder/allowspecific',
@@ -10455,7 +10455,7 @@ h2
   ),
   1147 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/purchaseorder/max_order_total',
@@ -10464,7 +10464,7 @@ h2
   ),
   1148 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/purchaseorder/min_order_total',
@@ -10473,7 +10473,7 @@ h2
   ),
   1149 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/purchaseorder/order_status',
@@ -10482,7 +10482,7 @@ h2
   ),
   1150 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/purchaseorder/sort_order',
@@ -10491,7 +10491,7 @@ h2
   ),
   1151 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/purchaseorder/title',
@@ -10500,7 +10500,7 @@ h2
   ),
   1152 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'payment/verisign/active',
@@ -10509,7 +10509,7 @@ h2
   ),
   1153 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/fetch_reports/active',
@@ -10518,7 +10518,7 @@ h2
   ),
   1154 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/fetch_reports/ftp_ip',
@@ -10527,7 +10527,7 @@ h2
   ),
   1155 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/fetch_reports/ftp_login',
@@ -10536,7 +10536,7 @@ h2
   ),
   1156 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/fetch_reports/ftp_password',
@@ -10545,7 +10545,7 @@ h2
   ),
   1157 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/fetch_reports/ftp_path',
@@ -10554,7 +10554,7 @@ h2
   ),
   1158 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/fetch_reports/ftp_sandbox',
@@ -10563,7 +10563,7 @@ h2
   ),
   1159 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/fetch_reports/schedule',
@@ -10572,7 +10572,7 @@ h2
   ),
   1160 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/fetch_reports/time',
@@ -10581,7 +10581,7 @@ h2
   ),
   1161 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/general/business_account',
@@ -10590,7 +10590,7 @@ h2
   ),
   1162 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/general/merchant_country',
@@ -10599,7 +10599,7 @@ h2
   ),
   1163 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/style/logo',
@@ -10608,7 +10608,7 @@ h2
   ),
   1164 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/style/page_style',
@@ -10617,7 +10617,7 @@ h2
   ),
   1165 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/style/paypal_hdrbackcolor',
@@ -10626,7 +10626,7 @@ h2
   ),
   1166 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/style/paypal_hdrbordercolor',
@@ -10635,7 +10635,7 @@ h2
   ),
   1167 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/style/paypal_hdrimg',
@@ -10644,7 +10644,7 @@ h2
   ),
   1168 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/style/paypal_payflowcolor',
@@ -10653,7 +10653,7 @@ h2
   ),
   1169 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/wpp/api_authentication',
@@ -10662,7 +10662,7 @@ h2
   ),
   1170 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/wpp/api_password',
@@ -10671,7 +10671,7 @@ h2
   ),
   1171 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/wpp/api_signature',
@@ -10680,7 +10680,7 @@ h2
   ),
   1172 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/wpp/api_username',
@@ -10689,7 +10689,7 @@ h2
   ),
   1173 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/wpp/button_flavor',
@@ -10698,7 +10698,7 @@ h2
   ),
   1174 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/wpp/sandbox_flag',
@@ -10707,7 +10707,7 @@ h2
   ),
   1175 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'paypal/wpp/use_proxy',
@@ -10716,7 +10716,7 @@ h2
   ),
   1176 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'persistent/options/enabled',
@@ -10725,7 +10725,7 @@ h2
   ),
   1177 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'persistent/options/lifetime',
@@ -10734,7 +10734,7 @@ h2
   ),
   1178 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'persistent/options/logout_clear',
@@ -10743,7 +10743,7 @@ h2
   ),
   1179 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'persistent/options/remember_default',
@@ -10752,7 +10752,7 @@ h2
   ),
   1180 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'persistent/options/remember_enabled',
@@ -10761,7 +10761,7 @@ h2
   ),
   1181 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'persistent/options/shopping_cart',
@@ -10770,7 +10770,7 @@ h2
   ),
   1182 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'relatedproducts/general/enabled',
@@ -10779,7 +10779,7 @@ h2
   ),
   1183 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'relatedproducts/general/process_orders',
@@ -10788,7 +10788,7 @@ h2
   ),
   1184 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'relatedproducts/general/products_to_display',
@@ -10797,7 +10797,7 @@ h2
   ),
   1185 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'relatedproducts/general/same_category',
@@ -10806,7 +10806,7 @@ h2
   ),
   1186 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'seamlesscart/general/show_image',
@@ -10815,7 +10815,7 @@ h2
   ),
   1187 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'seamlesscart/general/show_qty',
@@ -10824,7 +10824,7 @@ h2
   ),
   1188 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'seamlesscart/general/show_remove',
@@ -10833,7 +10833,7 @@ h2
   ),
   1189 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'seamlesscart/general/title',
@@ -10842,7 +10842,7 @@ h2
   ),
   1190 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/adminnotification/frequency',
@@ -10851,7 +10851,7 @@ h2
   ),
   1191 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/adminnotification/use_https',
@@ -10860,7 +10860,7 @@ h2
   ),
   1192 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/cron/history_cleanup_every',
@@ -10869,7 +10869,7 @@ h2
   ),
   1193 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/cron/history_failure_lifetime',
@@ -10878,7 +10878,7 @@ h2
   ),
   1194 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/cron/history_success_lifetime',
@@ -10887,7 +10887,7 @@ h2
   ),
   1195 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/cron/schedule_ahead_for',
@@ -10896,7 +10896,7 @@ h2
   ),
   1196 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/cron/schedule_generate_every',
@@ -10905,7 +10905,7 @@ h2
   ),
   1197 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/cron/schedule_lifetime',
@@ -10914,7 +10914,7 @@ h2
   ),
   1198 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/currency/installed',
@@ -10923,7 +10923,7 @@ h2
   ),
   1199 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/external_page_cache/enabled',
@@ -10932,7 +10932,7 @@ h2
   ),
   1200 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/log/clean_after_day',
@@ -10941,7 +10941,7 @@ h2
   ),
   1201 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/log/enabled',
@@ -10950,7 +10950,7 @@ h2
   ),
   1202 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/log/error_email',
@@ -10959,7 +10959,7 @@ h2
   ),
   1203 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/log/error_email_identity',
@@ -10968,7 +10968,7 @@ h2
   ),
   1204 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/log/error_email_template',
@@ -10977,7 +10977,7 @@ h2
   ),
   1205 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/log/frequency',
@@ -10986,7 +10986,7 @@ h2
   ),
   1206 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/log/time',
@@ -10995,7 +10995,7 @@ h2
   ),
   1207 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/media_storage_configuration/configuration_update_time',
@@ -11004,7 +11004,7 @@ h2
   ),
   1208 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/media_storage_configuration/media_database',
@@ -11013,7 +11013,7 @@ h2
   ),
   1209 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/media_storage_configuration/media_storage',
@@ -11022,7 +11022,7 @@ h2
   ),
   1210 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/smtp/disable',
@@ -11031,7 +11031,7 @@ h2
   ),
   1211 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/smtp/host',
@@ -11040,7 +11040,7 @@ h2
   ),
   1212 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/smtp/port',
@@ -11049,7 +11049,7 @@ h2
   ),
   1213 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/smtp/set_return_path',
@@ -11058,7 +11058,7 @@ h2
   ),
   1214 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/debug',
@@ -11067,7 +11067,7 @@ h2
   ),
   1215 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/disable_caching',
@@ -11076,7 +11076,7 @@ h2
   ),
   1216 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/disable_caching_vars',
@@ -11085,7 +11085,7 @@ h2
   ),
   1217 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/disable_routes',
@@ -11098,7 +11098,7 @@ wishlist',
   ),
   1218 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/enabled',
@@ -11107,7 +11107,7 @@ wishlist',
   ),
   1219 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/port',
@@ -11116,7 +11116,7 @@ wishlist',
   ),
   1220 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/purge_catalog_category',
@@ -11125,7 +11125,7 @@ wishlist',
   ),
   1221 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/purge_catalog_product',
@@ -11134,7 +11134,7 @@ wishlist',
   ),
   1222 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/purge_cms_page',
@@ -11143,7 +11143,7 @@ wishlist',
   ),
   1223 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/routes_ttl',
@@ -11152,7 +11152,7 @@ wishlist',
   ),
   1224 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/servers',
@@ -11161,7 +11161,7 @@ wishlist',
   ),
   1225 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'system/varnishcache/ttl',
@@ -11170,7 +11170,7 @@ wishlist',
   ),
   1226 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/calculation/algorithm',
@@ -11179,7 +11179,7 @@ wishlist',
   ),
   1227 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/calculation/apply_after_discount',
@@ -11188,7 +11188,7 @@ wishlist',
   ),
   1228 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/calculation/apply_tax_on',
@@ -11197,7 +11197,7 @@ wishlist',
   ),
   1229 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/calculation/based_on',
@@ -11206,7 +11206,7 @@ wishlist',
   ),
   1230 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/calculation/discount_tax',
@@ -11215,7 +11215,7 @@ wishlist',
   ),
   1231 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/calculation/price_includes_tax',
@@ -11224,7 +11224,7 @@ wishlist',
   ),
   1232 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/calculation/shipping_includes_tax',
@@ -11233,7 +11233,7 @@ wishlist',
   ),
   1233 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/cart_display/full_summary',
@@ -11242,7 +11242,7 @@ wishlist',
   ),
   1234 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/cart_display/grandtotal',
@@ -11251,7 +11251,7 @@ wishlist',
   ),
   1235 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/cart_display/price',
@@ -11260,7 +11260,7 @@ wishlist',
   ),
   1236 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/cart_display/shipping',
@@ -11269,7 +11269,7 @@ wishlist',
   ),
   1237 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/cart_display/subtotal',
@@ -11278,7 +11278,7 @@ wishlist',
   ),
   1238 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/cart_display/zero_tax',
@@ -11287,7 +11287,7 @@ wishlist',
   ),
   1239 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/classes/shipping_tax_class',
@@ -11296,7 +11296,7 @@ wishlist',
   ),
   1240 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/defaults/country',
@@ -11305,7 +11305,7 @@ wishlist',
   ),
   1241 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/defaults/postcode',
@@ -11314,7 +11314,7 @@ wishlist',
   ),
   1242 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/defaults/region',
@@ -11323,7 +11323,7 @@ wishlist',
   ),
   1243 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/display/shipping',
@@ -11332,7 +11332,7 @@ wishlist',
   ),
   1244 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/display/type',
@@ -11341,7 +11341,7 @@ wishlist',
   ),
   1245 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/sales_display/full_summary',
@@ -11350,7 +11350,7 @@ wishlist',
   ),
   1246 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/sales_display/grandtotal',
@@ -11359,7 +11359,7 @@ wishlist',
   ),
   1247 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/sales_display/price',
@@ -11368,7 +11368,7 @@ wishlist',
   ),
   1248 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/sales_display/shipping',
@@ -11377,7 +11377,7 @@ wishlist',
   ),
   1249 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/sales_display/subtotal',
@@ -11386,7 +11386,7 @@ wishlist',
   ),
   1250 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/sales_display/zero_tax',
@@ -11395,7 +11395,7 @@ wishlist',
   ),
   1251 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/weee/apply_vat',
@@ -11404,7 +11404,7 @@ wishlist',
   ),
   1252 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/weee/discount',
@@ -11413,7 +11413,7 @@ wishlist',
   ),
   1253 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/weee/display',
@@ -11422,7 +11422,7 @@ wishlist',
   ),
   1254 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/weee/display_email',
@@ -11431,7 +11431,7 @@ wishlist',
   ),
   1255 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/weee/display_list',
@@ -11440,7 +11440,7 @@ wishlist',
   ),
   1256 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/weee/display_sales',
@@ -11449,7 +11449,7 @@ wishlist',
   ),
   1257 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/weee/enable',
@@ -11458,7 +11458,7 @@ wishlist',
   ),
   1258 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'tax/weee/include_in_subtotal',
@@ -11467,7 +11467,7 @@ wishlist',
   ),
   1259 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'translate/general/customer_groups',
@@ -11476,7 +11476,7 @@ wishlist',
   ),
   1260 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'translate/general/locales',
@@ -11485,7 +11485,7 @@ wishlist',
   ),
   1261 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'translate/general/translation_interfaces',
@@ -11494,7 +11494,7 @@ wishlist',
   ),
   1262 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'translate/general/translation_logging',
@@ -11503,7 +11503,7 @@ wishlist',
   ),
   1263 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'twitterconnect/content/show_custom',
@@ -11512,7 +11512,7 @@ wishlist',
   ),
   1264 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'twitterconnect/content/show_in_checkout',
@@ -11521,7 +11521,7 @@ wishlist',
   ),
   1265 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'twitterconnect/content/show_in_login',
@@ -11530,7 +11530,7 @@ wishlist',
   ),
   1266 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'twitterconnect/content/show_widget',
@@ -11539,7 +11539,7 @@ wishlist',
   ),
   1267 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'twitterconnect/general/consumer_key',
@@ -11548,7 +11548,7 @@ wishlist',
   ),
   1268 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'twitterconnect/general/consumer_secret',
@@ -11557,7 +11557,7 @@ wishlist',
   ),
   1269 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'twitterconnect/general/enable_extension',
@@ -11566,7 +11566,7 @@ wishlist',
   ),
   1270 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/browser_capabilities/cookies',
@@ -11575,7 +11575,7 @@ wishlist',
   ),
   1271 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/browser_capabilities/javascript',
@@ -11584,7 +11584,7 @@ wishlist',
   ),
   1272 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/cookie/cookie_domain',
@@ -11593,7 +11593,7 @@ wishlist',
   ),
   1273 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/cookie/cookie_httponly',
@@ -11602,7 +11602,7 @@ wishlist',
   ),
   1274 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/cookie/cookie_lifetime',
@@ -11611,7 +11611,7 @@ wishlist',
   ),
   1275 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/cookie/cookie_path',
@@ -11620,7 +11620,7 @@ wishlist',
   ),
   1276 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/cookie/cookie_restriction',
@@ -11629,61 +11629,61 @@ wishlist',
   ),
   1277 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
-      'key' => 'web/defaultscope/cms_home_page',
+      'key' => 'web/default/cms_home_page',
       'value' => '1',
     ),
   ),
   1278 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
-      'key' => 'web/defaultscope/cms_no_cookies',
+      'key' => 'web/default/cms_no_cookies',
       'value' => '1',
     ),
   ),
   1279 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
-      'key' => 'web/defaultscope/cms_no_route',
+      'key' => 'web/default/cms_no_route',
       'value' => '1',
     ),
   ),
   1280 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
-      'key' => 'web/defaultscope/front',
+      'key' => 'web/default/front',
       'value' => 'cms',
     ),
   ),
   1281 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
-      'key' => 'web/defaultscope/no_route',
+      'key' => 'web/default/no_route',
       'value' => 'cms/index/noRoute',
     ),
   ),
   1282 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
-      'key' => 'web/defaultscope/show_cms_breadcrumbs',
+      'key' => 'web/default/show_cms_breadcrumbs',
       'value' => '1',
     ),
   ),
   1283 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/polls/poll_check_by_ip',
@@ -11692,7 +11692,7 @@ wishlist',
   ),
   1284 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/secure/base_js_url',
@@ -11701,7 +11701,7 @@ wishlist',
   ),
   1285 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/secure/base_link_url',
@@ -11710,7 +11710,7 @@ wishlist',
   ),
   1286 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/secure/base_media_url',
@@ -11719,7 +11719,7 @@ wishlist',
   ),
   1287 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/secure/base_skin_url',
@@ -11728,7 +11728,7 @@ wishlist',
   ),
   1289 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/secure/offloader_header',
@@ -11737,7 +11737,7 @@ wishlist',
   ),
   1290 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/secure/use_in_adminhtml',
@@ -11746,7 +11746,7 @@ wishlist',
   ),
   1291 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/secure/use_in_frontend',
@@ -11755,7 +11755,7 @@ wishlist',
   ),
   1292 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/seo/use_rewrites',
@@ -11764,7 +11764,7 @@ wishlist',
   ),
   1293 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/session/use_frontend_sid',
@@ -11773,7 +11773,7 @@ wishlist',
   ),
   1294 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/session/use_http_user_agent',
@@ -11782,7 +11782,7 @@ wishlist',
   ),
   1295 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/session/use_http_via',
@@ -11791,7 +11791,7 @@ wishlist',
   ),
   1296 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/session/use_http_x_forwarded_for',
@@ -11800,7 +11800,7 @@ wishlist',
   ),
   1297 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/session/use_remote_addr',
@@ -11809,7 +11809,7 @@ wishlist',
   ),
   1298 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/unsecure/base_js_url',
@@ -11818,7 +11818,7 @@ wishlist',
   ),
   1299 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/unsecure/base_link_url',
@@ -11827,7 +11827,7 @@ wishlist',
   ),
   1300 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/unsecure/base_media_url',
@@ -11836,7 +11836,7 @@ wishlist',
   ),
   1301 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/unsecure/base_skin_url',
@@ -11845,7 +11845,7 @@ wishlist',
   ),
   1303 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/url/redirect_to_base',
@@ -11854,7 +11854,7 @@ wishlist',
   ),
   1304 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'web/url/use_store',
@@ -11863,7 +11863,7 @@ wishlist',
   ),
   1305 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'whoviewedthisalsoviewed/general/active',
@@ -11872,7 +11872,7 @@ wishlist',
   ),
   1306 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'whoviewedthisalsoviewed/general/default_position',
@@ -11881,7 +11881,7 @@ wishlist',
   ),
   1307 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'whoviewedthisalsoviewed/general/products_to_diplay',
@@ -11890,7 +11890,7 @@ wishlist',
   ),
   1308 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'whoviewedthisalsoviewed/general/session_lifetime',
@@ -11899,7 +11899,7 @@ wishlist',
   ),
   1309 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'whoviewedthisalsoviewed/general/show_product_one_category',
@@ -11908,7 +11908,7 @@ wishlist',
   ),
   1310 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra/account_id',
@@ -11917,7 +11917,7 @@ wishlist',
   ),
   1311 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra/enabled',
@@ -11926,7 +11926,7 @@ wishlist',
   ),
   1312 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra/hostname',
@@ -11935,7 +11935,7 @@ wishlist',
   ),
   1313 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra/test',
@@ -11944,7 +11944,7 @@ wishlist',
   ),
   1314 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/download_tracking',
@@ -11953,7 +11953,7 @@ wishlist',
   ),
   1315 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/download_tracking_pause',
@@ -11962,7 +11962,7 @@ wishlist',
   ),
   1316 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/outgoing_tracking',
@@ -11971,7 +11971,7 @@ wishlist',
   ),
   1317 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/outgoing_tracking_pause',
@@ -11980,7 +11980,7 @@ wishlist',
   ),
   1318 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/ping',
@@ -11989,7 +11989,7 @@ wishlist',
   ),
   1319 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/ping_interval',
@@ -11998,7 +11998,7 @@ wishlist',
   ),
   1320 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/subdomain',
@@ -12007,7 +12007,7 @@ wishlist',
   ),
   1321 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/tracking_cookie_domain',
@@ -12016,7 +12016,7 @@ wishlist',
   ),
   1322 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/tracking_cookie_expiration',
@@ -12025,7 +12025,7 @@ wishlist',
   ),
   1323 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/tracking_cookie_name',
@@ -12034,7 +12034,7 @@ wishlist',
   ),
   1324 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/tracking_cookie_path',
@@ -12043,7 +12043,7 @@ wishlist',
   ),
   1325 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/track_url_parameters',
@@ -12052,7 +12052,7 @@ wishlist',
   ),
   1326 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_advanced/visitor_timeout',
@@ -12061,7 +12061,7 @@ wishlist',
   ),
   1327 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/catalog_search',
@@ -12070,7 +12070,7 @@ wishlist',
   ),
   1328 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/changed_password',
@@ -12079,7 +12079,7 @@ wishlist',
   ),
   1329 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/checkout_billing_address',
@@ -12088,7 +12088,7 @@ wishlist',
   ),
   1330 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/checkout_payment_method',
@@ -12097,7 +12097,7 @@ wishlist',
   ),
   1331 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/checkout_review',
@@ -12106,7 +12106,7 @@ wishlist',
   ),
   1332 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/checkout_shipping_address',
@@ -12115,7 +12115,7 @@ wishlist',
   ),
   1333 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/checkout_shipping_method',
@@ -12124,7 +12124,7 @@ wishlist',
   ),
   1334 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/checkout_success',
@@ -12133,7 +12133,7 @@ wishlist',
   ),
   1335 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/cms_no_route',
@@ -12142,7 +12142,7 @@ wishlist',
   ),
   1336 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/contact_form_sent',
@@ -12151,7 +12151,7 @@ wishlist',
   ),
   1337 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/coupon_added',
@@ -12160,7 +12160,7 @@ wishlist',
   ),
   1338 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/coupon_removed',
@@ -12169,7 +12169,7 @@ wishlist',
   ),
   1339 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/customer_create_account',
@@ -12178,7 +12178,7 @@ wishlist',
   ),
   1340 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/customer_create_account_success',
@@ -12187,7 +12187,7 @@ wishlist',
   ),
   1341 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/customer_login',
@@ -12196,7 +12196,7 @@ wishlist',
   ),
   1342 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/customer_logout',
@@ -12205,7 +12205,7 @@ wishlist',
   ),
   1343 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/estimate_post',
@@ -12214,7 +12214,7 @@ wishlist',
   ),
   1344 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/forgot_password',
@@ -12223,7 +12223,7 @@ wishlist',
   ),
   1345 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/newsletter_subscribed',
@@ -12232,7 +12232,7 @@ wishlist',
   ),
   1346 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/newsletter_unsubscribed',
@@ -12241,7 +12241,7 @@ wishlist',
   ),
   1347 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/poll_vote',
@@ -12250,7 +12250,7 @@ wishlist',
   ),
   1348 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_added_to_cart',
@@ -12259,7 +12259,7 @@ wishlist',
   ),
   1349 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_added_to_compare',
@@ -12268,7 +12268,7 @@ wishlist',
   ),
   1350 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_added_to_wishlist',
@@ -12277,7 +12277,7 @@ wishlist',
   ),
   1351 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_removed_from_cart',
@@ -12286,7 +12286,7 @@ wishlist',
   ),
   1352 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_removed_from_compare',
@@ -12295,7 +12295,7 @@ wishlist',
   ),
   1353 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_removed_from_wishlist',
@@ -12304,7 +12304,7 @@ wishlist',
   ),
   1354 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_review_posted',
@@ -12313,7 +12313,7 @@ wishlist',
   ),
   1355 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_review_read',
@@ -12322,7 +12322,7 @@ wishlist',
   ),
   1356 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_events/product_tag_added',
@@ -12331,7 +12331,7 @@ wishlist',
   ),
   1357 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_cart_items',
@@ -12340,7 +12340,7 @@ wishlist',
   ),
   1358 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_cart_total',
@@ -12349,7 +12349,7 @@ wishlist',
   ),
   1359 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_company',
@@ -12358,7 +12358,7 @@ wishlist',
   ),
   1360 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_create_date',
@@ -12367,7 +12367,7 @@ wishlist',
   ),
   1361 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_email',
@@ -12376,7 +12376,7 @@ wishlist',
   ),
   1362 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_group',
@@ -12385,7 +12385,7 @@ wishlist',
   ),
   1363 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_lifetime_sales',
@@ -12394,7 +12394,7 @@ wishlist',
   ),
   1364 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_location',
@@ -12403,7 +12403,7 @@ wishlist',
   ),
   1365 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_name',
@@ -12412,7 +12412,7 @@ wishlist',
   ),
   1366 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_number_orders',
@@ -12421,7 +12421,7 @@ wishlist',
   ),
   1367 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_phone',
@@ -12430,7 +12430,7 @@ wishlist',
   ),
   1368 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' =>
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_wishlist_items',
@@ -12439,7 +12439,7 @@ wishlist',
   ),
   1369 =>
   array (
-    0 => 'defaultscope/createconfig',
+    0 => 'default/createconfig',
     'parameters' => 
     array (
       'key' => 'woopra_analytics/woopra_outputs/customer_wishlist_total',

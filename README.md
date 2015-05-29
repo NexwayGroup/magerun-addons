@@ -39,6 +39,12 @@ This command will load magento instance configuration
 
     $ n98-magerun.phar nexway:config:load path_to_directory
 
+### Squeeze magento dumped configuration ###
+
+This command will squeeze dumped magento configuration
+
+    $ n98-magerun.phar nexway:config:squeeze path_to_directory_or_file
+
 Actions
 -------
 

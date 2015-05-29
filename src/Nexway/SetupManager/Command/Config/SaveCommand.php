@@ -25,7 +25,7 @@ class SaveCommand extends AbstractMagentoCommand
             ->setName('nexway:config:save')
             ->setDescription('Save configuration from magento instance to file.')
             ->addArgument(
-                'save',
+                'type',
                 InputArgument::REQUIRED,
                 'configuration type to save:
     all            - save all types (as path you need to specify the directory)
@@ -64,7 +64,7 @@ class SaveCommand extends AbstractMagentoCommand
         $this->_output = $output;
 
         $path       = $this->_input->getArgument('path');
-        $saveAction = $this->_input->getArgument('save');
+        $saveAction = $this->_input->getArgument('type');
 
         if ($this->_shouldSaveAll()) {
             $saveActions = [
@@ -119,7 +119,7 @@ class SaveCommand extends AbstractMagentoCommand
 
     private function _shouldSaveAll()
     {
-        return 'all' == $this->_input->getArgument('save');
+        return 'all' == $this->_input->getArgument('type');
     }
 
     private function _shouldDeleteFile()

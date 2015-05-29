@@ -3,6 +3,7 @@
 namespace Nexway\SetupManager\Util\Helper;
 
 use Nexway\SetupManager\Util\Processor\Action;
+use Nexway\SetupManager\Util\Helper\Command\Path;
 
 /**
  * @category    Nexway
@@ -47,9 +48,9 @@ class Processor
     /**
      * Sets base path of current setup
      *
-     * @param \Varien_Object $path
+     * @param Path $path
      */
-    public function setPath(\Varien_Object $path)
+    public function setPath(Path $path)
     {
         $this->path = $path;
     }
