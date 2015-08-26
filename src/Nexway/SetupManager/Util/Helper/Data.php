@@ -154,4 +154,12 @@ class Data
     {
         return \Mage::getModel('customer/group');
     }
+
+    /**
+     * @return false|\Nexway_Upsell_Model_Interstitial_Page
+     */
+    public function getInterstitialPageModel()
+    {
+        return \Mage::getModel('nexway_upsell/interstitial_page');
+    }
 }
