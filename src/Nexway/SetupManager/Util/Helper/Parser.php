@@ -73,6 +73,7 @@ class Parser
         'agreements'      => ['id', 'name'],
         'customer_group'  => ['id', 'customer_group_code'],
         'image'           => ['id', 'local', 'favicon', 'theme'],
+        'cms'             => ['identifier'],
     ];
 
     /**
@@ -80,7 +81,6 @@ class Parser
      *      by more than one field aka multicolumn unique key loader.
      */
     protected $_compundExtIdAllowed = [
-        'cms'   => [ ['identifier', 'store_id'] ],
         'group' => [ ['name', 'website_id'] ],
     ];
 
