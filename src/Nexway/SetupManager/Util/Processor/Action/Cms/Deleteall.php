@@ -1,6 +1,6 @@
 <?php
 
-namespace Nexway\SetupManager\Util\Processor\Action\Agreement;
+namespace Nexway\SetupManager\Util\Processor\Action\Cms;
 
 use Nexway\SetupManager\Util\Processor\AbstractAction;
 
