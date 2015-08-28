@@ -643,7 +643,7 @@ class Parser
      */
     protected function _getCmsInstance($field, $value)
     {
-        return $this->_getHelper()->getCmsModel()->find($value, $field);
+        return $this->_getHelper()->getCmsModel()->load($value, $field);
     }
 
     /**
