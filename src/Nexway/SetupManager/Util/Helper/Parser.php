@@ -73,6 +73,7 @@ class Parser
         'agreements'      => ['id', 'name'],
         'customer_group'  => ['id', 'customer_group_code'],
         'image'           => ['id', 'local', 'favicon', 'theme'],
+        'interstitial_page' => ['id', 'name'],
     ];
 
     /**
@@ -102,6 +103,7 @@ class Parser
         'cms'             => '_getCmsInstance',
         'customer_group'  => '_getCustomerGroupInstance',
         'image'           => '_getImageInstance',
+        'interstitial_page' => '_getInterstitialPageInstance'
     ];
 
     /**
@@ -685,6 +687,24 @@ class Parser
                 );
             default:
                 throw new \Exception(sprintf('Invalid image field name "%s"', $field));
+        }
+    }
+
+    /**
+     * @param string $field
+     * @param string $value
+     * @throws \Exception
+     * @return \Nexway_Catalog_Model_Product|\Mage_Catalog_Model_Product
+     */
+    protected function _getInterstitialPageInstance($field, $value)
+    {
+        switch ($field) {
+            case 'id':
+                return $this->_getHelper()->getInterstitialPageModel()->load($value);
+            case 'name':
+                return $this->_getHelper()->getInterstitialPageModel()->load($value, 'name');
+            default:
+                throw new \Exception(sprintf('Invalid product field name "%s"', $field));
         }
     }
 
