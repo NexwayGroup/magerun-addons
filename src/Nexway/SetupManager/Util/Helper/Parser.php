@@ -73,6 +73,7 @@ class Parser
         'agreements'      => ['id', 'name'],
         'customer_group'  => ['id', 'customer_group_code'],
         'image'           => ['id', 'local', 'favicon', 'theme'],
+        'cms'             => ['identifier'],
         'interstitial_page' => ['id', 'name'],
     ];
 
@@ -81,7 +82,6 @@ class Parser
      *      by more than one field aka multicolumn unique key loader.
      */
     protected $_compundExtIdAllowed = [
-        'cms'   => [ ['identifier', 'store_id'] ],
         'group' => [ ['name', 'website_id'] ],
     ];
 
@@ -645,9 +645,7 @@ class Parser
      */
     protected function _getCmsInstance($field, $value)
     {
-        $model = $this->_getHelper()->getCmsModel();
-        $item = $this->_getObjectInstanceFromCollection($model, $field, $value);
-        return $item;
+        return $this->_getHelper()->getCmsModel()->load($value, $field);
     }
 
     /**
