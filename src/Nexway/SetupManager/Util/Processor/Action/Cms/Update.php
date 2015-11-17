@@ -29,33 +29,8 @@ class Update extends AbstractAction
             Parser::CONVERT_FROM_EXTID
         );
 
-        if (isset($data['parent_id']) && $data['parent_id'] === '0') {
-            $loadId     = $data['store_id'];
-            $loadName   = 'store_id';
-            if (isset($data['url_key']) && empty($data['url_key'])) {
-                $data['identifier'] = $data['url_key'];
-            }
-        } else {
-            /** @var \Mage_Cms_Model_Page $collection */
-            $collection   = \Mage::getModel('cms/page')->getCollection()->addFieldToFilter(
-                'identifier',
-                [
-                    'eq' => $data['url_key'],
-                ]
-            )->addFieldToFilter(
-                'store_id',
-                [
-                    'eq' => $data['store_id'],
-                ]
-            );
-
-            $loadedData = $collection->getData()[0];
-            $loadId     = $loadedData['page_id'];
-            $loadName   = 'page_id';
-        }
-
         /** @var \Mage_Cms_Model_Page $cmsModel */
-        $cmsModel   = \Mage::getModel('cms/page')->load($loadId, $loadName);
+        $cmsModel   = \Mage::getModel('cms/page')->load($data['identifier']);
         $data       = array_merge($cmsModel->getData(), $data);
 
         $cmsModel->setData($data);
