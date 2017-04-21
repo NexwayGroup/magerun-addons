@@ -2,8 +2,6 @@
 
 namespace Nexway\SetupManager\Command\Config;
 
-ini_set('memory_limit', '64M');
-
 use Nexway\SetupManager\Util\Helper\Parser;
 use Nexway\SetupManager\Util\Helper\Processor;
 use Nexway\SetupManager\Util\Helper\Utils;
